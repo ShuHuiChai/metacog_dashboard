@@ -1,0 +1,721 @@
+assignment_id,assignment_name,subject,class_id,class_name,teacher_id,teacher_name,student_id,student_name,due_date,planning_level,monitoring_level,evaluation_level,evidence
+A001,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S01,Student A,2026-08-01,Emerging,Not Observed,Not Observed,Student A showed emerging planning behaviour on assignment 1.
+A001,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S02,Student B,2026-08-01,Not Observed,Proficient,Emerging,Student B showed not observed planning behaviour on assignment 1.
+A001,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S03,Student C,2026-08-01,Proficient,Not Observed,Emerging,Student C showed proficient planning behaviour on assignment 1.
+A001,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S04,Student D,2026-08-01,Not Observed,Not Observed,Emerging,Student D showed not observed planning behaviour on assignment 1.
+A001,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S05,Student E,2026-08-01,Not Observed,Not Observed,Emerging,Student E showed not observed planning behaviour on assignment 1.
+A001,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S06,Student F,2026-08-01,Emerging,Not Observed,Emerging,Student F showed emerging planning behaviour on assignment 1.
+A001,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S07,Student G,2026-08-01,Proficient,Not Observed,Proficient,Student G showed proficient planning behaviour on assignment 1.
+A001,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S08,Student H,2026-08-01,Emerging,Not Observed,Not Observed,Student H showed emerging planning behaviour on assignment 1.
+A001,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S09,Student I,2026-08-01,Accomplished,Not Observed,Not Observed,Student I showed accomplished planning behaviour on assignment 1.
+A001,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S10,Student J,2026-08-01,Not Observed,Proficient,Emerging,Student J showed not observed planning behaviour on assignment 1.
+A002,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S01,Student A,2026-08-15,Proficient,Proficient,Emerging,Student A showed proficient planning behaviour on assignment 2.
+A002,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S02,Student B,2026-08-15,Accomplished,Emerging,Emerging,Student B showed accomplished planning behaviour on assignment 2.
+A002,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S03,Student C,2026-08-15,Proficient,Emerging,Accomplished,Student C showed proficient planning behaviour on assignment 2.
+A002,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S04,Student D,2026-08-15,Emerging,Proficient,Not Observed,Student D showed emerging planning behaviour on assignment 2.
+A002,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S05,Student E,2026-08-15,Not Observed,Not Observed,Not Observed,Student E showed not observed planning behaviour on assignment 2.
+A002,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S06,Student F,2026-08-15,Not Observed,Not Observed,Not Observed,Student F showed not observed planning behaviour on assignment 2.
+A002,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S07,Student G,2026-08-15,Proficient,Emerging,Emerging,Student G showed proficient planning behaviour on assignment 2.
+A002,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S08,Student H,2026-08-15,Not Observed,Not Observed,Accomplished,Student H showed not observed planning behaviour on assignment 2.
+A002,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S09,Student I,2026-08-15,Proficient,Emerging,Not Observed,Student I showed proficient planning behaviour on assignment 2.
+A002,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S10,Student J,2026-08-15,Proficient,Not Observed,Emerging,Student J showed proficient planning behaviour on assignment 2.
+A003,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S01,Student A,2026-08-29,Accomplished,Proficient,Proficient,Student A showed accomplished planning behaviour on assignment 3.
+A003,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S02,Student B,2026-08-29,Proficient,Accomplished,Proficient,Student B showed proficient planning behaviour on assignment 3.
+A003,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S03,Student C,2026-08-29,Not Observed,Not Observed,Emerging,Student C showed not observed planning behaviour on assignment 3.
+A003,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S04,Student D,2026-08-29,Not Observed,Not Observed,Accomplished,Student D showed not observed planning behaviour on assignment 3.
+A003,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S05,Student E,2026-08-29,Accomplished,Emerging,Proficient,Student E showed accomplished planning behaviour on assignment 3.
+A003,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S06,Student F,2026-08-29,Emerging,Accomplished,Emerging,Student F showed emerging planning behaviour on assignment 3.
+A003,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S07,Student G,2026-08-29,Not Observed,Not Observed,Proficient,Student G showed not observed planning behaviour on assignment 3.
+A003,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S08,Student H,2026-08-29,Not Observed,Proficient,Accomplished,Student H showed not observed planning behaviour on assignment 3.
+A003,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S09,Student I,2026-08-29,Emerging,Not Observed,Accomplished,Student I showed emerging planning behaviour on assignment 3.
+A003,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S10,Student J,2026-08-29,Emerging,Not Observed,Not Observed,Student J showed emerging planning behaviour on assignment 3.
+A004,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S01,Student A,2026-09-12,Not Observed,Proficient,Accomplished,Student A showed not observed planning behaviour on assignment 4.
+A004,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S02,Student B,2026-09-12,Emerging,Not Observed,Emerging,Student B showed emerging planning behaviour on assignment 4.
+A004,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S03,Student C,2026-09-12,Accomplished,Proficient,Accomplished,Student C showed accomplished planning behaviour on assignment 4.
+A004,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S04,Student D,2026-09-12,Accomplished,Not Observed,Accomplished,Student D showed accomplished planning behaviour on assignment 4.
+A004,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S05,Student E,2026-09-12,Proficient,Proficient,Emerging,Student E showed proficient planning behaviour on assignment 4.
+A004,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S06,Student F,2026-09-12,Proficient,Not Observed,Emerging,Student F showed proficient planning behaviour on assignment 4.
+A004,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S07,Student G,2026-09-12,Emerging,Accomplished,Accomplished,Student G showed emerging planning behaviour on assignment 4.
+A004,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S08,Student H,2026-09-12,Emerging,Proficient,Not Observed,Student H showed emerging planning behaviour on assignment 4.
+A004,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S09,Student I,2026-09-12,Accomplished,Accomplished,Emerging,Student I showed accomplished planning behaviour on assignment 4.
+A004,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T1,Ms. Tan,S10,Student J,2026-09-12,Proficient,Proficient,Not Observed,Student J showed proficient planning behaviour on assignment 4.
+A005,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S01,Student A,2026-08-01,Proficient,Emerging,Proficient,Student A showed proficient planning behaviour on assignment 1.
+A005,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S02,Student B,2026-08-01,Emerging,Not Observed,Not Observed,Student B showed emerging planning behaviour on assignment 1.
+A005,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S03,Student C,2026-08-01,Not Observed,Accomplished,Proficient,Student C showed not observed planning behaviour on assignment 1.
+A005,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S04,Student D,2026-08-01,Proficient,Not Observed,Not Observed,Student D showed proficient planning behaviour on assignment 1.
+A005,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S05,Student E,2026-08-01,Proficient,Accomplished,Not Observed,Student E showed proficient planning behaviour on assignment 1.
+A005,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S06,Student F,2026-08-01,Emerging,Not Observed,Proficient,Student F showed emerging planning behaviour on assignment 1.
+A005,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S07,Student G,2026-08-01,Proficient,Not Observed,Emerging,Student G showed proficient planning behaviour on assignment 1.
+A005,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S08,Student H,2026-08-01,Emerging,Not Observed,Proficient,Student H showed emerging planning behaviour on assignment 1.
+A005,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S09,Student I,2026-08-01,Emerging,Not Observed,Emerging,Student I showed emerging planning behaviour on assignment 1.
+A005,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S10,Student J,2026-08-01,Proficient,Not Observed,Not Observed,Student J showed proficient planning behaviour on assignment 1.
+A006,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S01,Student A,2026-08-15,Accomplished,Proficient,Emerging,Student A showed accomplished planning behaviour on assignment 2.
+A006,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S02,Student B,2026-08-15,Emerging,Not Observed,Not Observed,Student B showed emerging planning behaviour on assignment 2.
+A006,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S03,Student C,2026-08-15,Not Observed,Emerging,Not Observed,Student C showed not observed planning behaviour on assignment 2.
+A006,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S04,Student D,2026-08-15,Not Observed,Not Observed,Proficient,Student D showed not observed planning behaviour on assignment 2.
+A006,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S05,Student E,2026-08-15,Not Observed,Accomplished,Accomplished,Student E showed not observed planning behaviour on assignment 2.
+A006,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S06,Student F,2026-08-15,Not Observed,Not Observed,Proficient,Student F showed not observed planning behaviour on assignment 2.
+A006,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S07,Student G,2026-08-15,Not Observed,Not Observed,Accomplished,Student G showed not observed planning behaviour on assignment 2.
+A006,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S08,Student H,2026-08-15,Emerging,Emerging,Proficient,Student H showed emerging planning behaviour on assignment 2.
+A006,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S09,Student I,2026-08-15,Proficient,Not Observed,Not Observed,Student I showed proficient planning behaviour on assignment 2.
+A006,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S10,Student J,2026-08-15,Emerging,Emerging,Emerging,Student J showed emerging planning behaviour on assignment 2.
+A007,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S01,Student A,2026-08-29,Proficient,Proficient,Accomplished,Student A showed proficient planning behaviour on assignment 3.
+A007,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S02,Student B,2026-08-29,Not Observed,Emerging,Emerging,Student B showed not observed planning behaviour on assignment 3.
+A007,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S03,Student C,2026-08-29,Accomplished,Not Observed,Not Observed,Student C showed accomplished planning behaviour on assignment 3.
+A007,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S04,Student D,2026-08-29,Emerging,Emerging,Not Observed,Student D showed emerging planning behaviour on assignment 3.
+A007,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S05,Student E,2026-08-29,Not Observed,Accomplished,Emerging,Student E showed not observed planning behaviour on assignment 3.
+A007,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S06,Student F,2026-08-29,Accomplished,Proficient,Not Observed,Student F showed accomplished planning behaviour on assignment 3.
+A007,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S07,Student G,2026-08-29,Accomplished,Accomplished,Accomplished,Student G showed accomplished planning behaviour on assignment 3.
+A007,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S08,Student H,2026-08-29,Accomplished,Accomplished,Not Observed,Student H showed accomplished planning behaviour on assignment 3.
+A007,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S09,Student I,2026-08-29,Emerging,Not Observed,Emerging,Student I showed emerging planning behaviour on assignment 3.
+A007,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S10,Student J,2026-08-29,Not Observed,Emerging,Accomplished,Student J showed not observed planning behaviour on assignment 3.
+A008,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S01,Student A,2026-09-12,Emerging,Accomplished,Emerging,Student A showed emerging planning behaviour on assignment 4.
+A008,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S02,Student B,2026-09-12,Emerging,Accomplished,Accomplished,Student B showed emerging planning behaviour on assignment 4.
+A008,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S03,Student C,2026-09-12,Proficient,Proficient,Not Observed,Student C showed proficient planning behaviour on assignment 4.
+A008,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S04,Student D,2026-09-12,Emerging,Accomplished,Proficient,Student D showed emerging planning behaviour on assignment 4.
+A008,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S05,Student E,2026-09-12,Proficient,Accomplished,Not Observed,Student E showed proficient planning behaviour on assignment 4.
+A008,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S06,Student F,2026-09-12,Proficient,Proficient,Accomplished,Student F showed proficient planning behaviour on assignment 4.
+A008,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S07,Student G,2026-09-12,Not Observed,Accomplished,Not Observed,Student G showed not observed planning behaviour on assignment 4.
+A008,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S08,Student H,2026-09-12,Not Observed,Proficient,Proficient,Student H showed not observed planning behaviour on assignment 4.
+A008,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S09,Student I,2026-09-12,Emerging,Not Observed,Accomplished,Student I showed emerging planning behaviour on assignment 4.
+A008,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T1,Ms. Tan,S10,Student J,2026-09-12,Emerging,Proficient,Proficient,Student J showed emerging planning behaviour on assignment 4.
+A009,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S01,Student A,2026-08-01,Emerging,Emerging,Emerging,Student A showed emerging planning behaviour on assignment 1.
+A009,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S02,Student B,2026-08-01,Accomplished,Not Observed,Proficient,Student B showed accomplished planning behaviour on assignment 1.
+A009,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S03,Student C,2026-08-01,Not Observed,Not Observed,Emerging,Student C showed not observed planning behaviour on assignment 1.
+A009,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S04,Student D,2026-08-01,Not Observed,Not Observed,Proficient,Student D showed not observed planning behaviour on assignment 1.
+A009,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S05,Student E,2026-08-01,Not Observed,Emerging,Accomplished,Student E showed not observed planning behaviour on assignment 1.
+A009,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S06,Student F,2026-08-01,Accomplished,Not Observed,Not Observed,Student F showed accomplished planning behaviour on assignment 1.
+A009,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S07,Student G,2026-08-01,Not Observed,Accomplished,Proficient,Student G showed not observed planning behaviour on assignment 1.
+A009,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S08,Student H,2026-08-01,Proficient,Not Observed,Not Observed,Student H showed proficient planning behaviour on assignment 1.
+A009,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S09,Student I,2026-08-01,Proficient,Proficient,Emerging,Student I showed proficient planning behaviour on assignment 1.
+A009,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S10,Student J,2026-08-01,Accomplished,Emerging,Not Observed,Student J showed accomplished planning behaviour on assignment 1.
+A010,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S01,Student A,2026-08-15,Proficient,Not Observed,Proficient,Student A showed proficient planning behaviour on assignment 2.
+A010,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S02,Student B,2026-08-15,Accomplished,Not Observed,Not Observed,Student B showed accomplished planning behaviour on assignment 2.
+A010,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S03,Student C,2026-08-15,Not Observed,Emerging,Not Observed,Student C showed not observed planning behaviour on assignment 2.
+A010,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S04,Student D,2026-08-15,Emerging,Proficient,Not Observed,Student D showed emerging planning behaviour on assignment 2.
+A010,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S05,Student E,2026-08-15,Proficient,Not Observed,Emerging,Student E showed proficient planning behaviour on assignment 2.
+A010,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S06,Student F,2026-08-15,Accomplished,Accomplished,Not Observed,Student F showed accomplished planning behaviour on assignment 2.
+A010,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S07,Student G,2026-08-15,Emerging,Not Observed,Not Observed,Student G showed emerging planning behaviour on assignment 2.
+A010,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S08,Student H,2026-08-15,Proficient,Proficient,Not Observed,Student H showed proficient planning behaviour on assignment 2.
+A010,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S09,Student I,2026-08-15,Proficient,Emerging,Emerging,Student I showed proficient planning behaviour on assignment 2.
+A010,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S10,Student J,2026-08-15,Not Observed,Not Observed,Accomplished,Student J showed not observed planning behaviour on assignment 2.
+A011,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S01,Student A,2026-08-29,Accomplished,Proficient,Accomplished,Student A showed accomplished planning behaviour on assignment 3.
+A011,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S02,Student B,2026-08-29,Proficient,Not Observed,Not Observed,Student B showed proficient planning behaviour on assignment 3.
+A011,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S03,Student C,2026-08-29,Emerging,Accomplished,Accomplished,Student C showed emerging planning behaviour on assignment 3.
+A011,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S04,Student D,2026-08-29,Accomplished,Accomplished,Not Observed,Student D showed accomplished planning behaviour on assignment 3.
+A011,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S05,Student E,2026-08-29,Not Observed,Not Observed,Accomplished,Student E showed not observed planning behaviour on assignment 3.
+A011,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S06,Student F,2026-08-29,Accomplished,Emerging,Proficient,Student F showed accomplished planning behaviour on assignment 3.
+A011,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S07,Student G,2026-08-29,Not Observed,Accomplished,Accomplished,Student G showed not observed planning behaviour on assignment 3.
+A011,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S08,Student H,2026-08-29,Accomplished,Accomplished,Accomplished,Student H showed accomplished planning behaviour on assignment 3.
+A011,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S09,Student I,2026-08-29,Not Observed,Proficient,Emerging,Student I showed not observed planning behaviour on assignment 3.
+A011,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S10,Student J,2026-08-29,Accomplished,Accomplished,Accomplished,Student J showed accomplished planning behaviour on assignment 3.
+A012,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S01,Student A,2026-09-12,Accomplished,Emerging,Accomplished,Student A showed accomplished planning behaviour on assignment 4.
+A012,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S02,Student B,2026-09-12,Not Observed,Accomplished,Accomplished,Student B showed not observed planning behaviour on assignment 4.
+A012,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S03,Student C,2026-09-12,Emerging,Accomplished,Emerging,Student C showed emerging planning behaviour on assignment 4.
+A012,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S04,Student D,2026-09-12,Emerging,Accomplished,Emerging,Student D showed emerging planning behaviour on assignment 4.
+A012,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S05,Student E,2026-09-12,Not Observed,Not Observed,Emerging,Student E showed not observed planning behaviour on assignment 4.
+A012,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S06,Student F,2026-09-12,Accomplished,Accomplished,Emerging,Student F showed accomplished planning behaviour on assignment 4.
+A012,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S07,Student G,2026-09-12,Proficient,Emerging,Accomplished,Student G showed proficient planning behaviour on assignment 4.
+A012,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S08,Student H,2026-09-12,Proficient,Accomplished,Not Observed,Student H showed proficient planning behaviour on assignment 4.
+A012,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S09,Student I,2026-09-12,Accomplished,Not Observed,Accomplished,Student I showed accomplished planning behaviour on assignment 4.
+A012,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T1,Ms. Tan,S10,Student J,2026-09-12,Emerging,Not Observed,Emerging,Student J showed emerging planning behaviour on assignment 4.
+A013,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S01,Student A,2026-08-01,Proficient,Not Observed,Emerging,Student A showed proficient planning behaviour on assignment 1.
+A013,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S02,Student B,2026-08-01,Emerging,Not Observed,Emerging,Student B showed emerging planning behaviour on assignment 1.
+A013,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S03,Student C,2026-08-01,Not Observed,Proficient,Not Observed,Student C showed not observed planning behaviour on assignment 1.
+A013,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S04,Student D,2026-08-01,Accomplished,Emerging,Proficient,Student D showed accomplished planning behaviour on assignment 1.
+A013,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S05,Student E,2026-08-01,Proficient,Emerging,Not Observed,Student E showed proficient planning behaviour on assignment 1.
+A013,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S06,Student F,2026-08-01,Not Observed,Emerging,Not Observed,Student F showed not observed planning behaviour on assignment 1.
+A013,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S07,Student G,2026-08-01,Not Observed,Proficient,Proficient,Student G showed not observed planning behaviour on assignment 1.
+A013,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S08,Student H,2026-08-01,Not Observed,Not Observed,Emerging,Student H showed not observed planning behaviour on assignment 1.
+A013,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S09,Student I,2026-08-01,Emerging,Not Observed,Not Observed,Student I showed emerging planning behaviour on assignment 1.
+A013,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S10,Student J,2026-08-01,Emerging,Accomplished,Emerging,Student J showed emerging planning behaviour on assignment 1.
+A014,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S01,Student A,2026-08-15,Accomplished,Emerging,Not Observed,Student A showed accomplished planning behaviour on assignment 2.
+A014,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S02,Student B,2026-08-15,Emerging,Not Observed,Not Observed,Student B showed emerging planning behaviour on assignment 2.
+A014,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S03,Student C,2026-08-15,Emerging,Emerging,Proficient,Student C showed emerging planning behaviour on assignment 2.
+A014,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S04,Student D,2026-08-15,Emerging,Emerging,Not Observed,Student D showed emerging planning behaviour on assignment 2.
+A014,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S05,Student E,2026-08-15,Emerging,Accomplished,Proficient,Student E showed emerging planning behaviour on assignment 2.
+A014,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S06,Student F,2026-08-15,Not Observed,Not Observed,Emerging,Student F showed not observed planning behaviour on assignment 2.
+A014,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S07,Student G,2026-08-15,Proficient,Not Observed,Proficient,Student G showed proficient planning behaviour on assignment 2.
+A014,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S08,Student H,2026-08-15,Proficient,Proficient,Not Observed,Student H showed proficient planning behaviour on assignment 2.
+A014,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S09,Student I,2026-08-15,Not Observed,Not Observed,Not Observed,Student I showed not observed planning behaviour on assignment 2.
+A014,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S10,Student J,2026-08-15,Emerging,Accomplished,Not Observed,Student J showed emerging planning behaviour on assignment 2.
+A015,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S01,Student A,2026-08-29,Emerging,Proficient,Not Observed,Student A showed emerging planning behaviour on assignment 3.
+A015,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S02,Student B,2026-08-29,Proficient,Emerging,Not Observed,Student B showed proficient planning behaviour on assignment 3.
+A015,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S03,Student C,2026-08-29,Proficient,Not Observed,Proficient,Student C showed proficient planning behaviour on assignment 3.
+A015,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S04,Student D,2026-08-29,Proficient,Not Observed,Emerging,Student D showed proficient planning behaviour on assignment 3.
+A015,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S05,Student E,2026-08-29,Not Observed,Accomplished,Emerging,Student E showed not observed planning behaviour on assignment 3.
+A015,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S06,Student F,2026-08-29,Not Observed,Not Observed,Accomplished,Student F showed not observed planning behaviour on assignment 3.
+A015,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S07,Student G,2026-08-29,Emerging,Accomplished,Proficient,Student G showed emerging planning behaviour on assignment 3.
+A015,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S08,Student H,2026-08-29,Accomplished,Proficient,Accomplished,Student H showed accomplished planning behaviour on assignment 3.
+A015,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S09,Student I,2026-08-29,Accomplished,Proficient,Proficient,Student I showed accomplished planning behaviour on assignment 3.
+A015,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S10,Student J,2026-08-29,Emerging,Accomplished,Proficient,Student J showed emerging planning behaviour on assignment 3.
+A016,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S01,Student A,2026-09-12,Accomplished,Accomplished,Proficient,Student A showed accomplished planning behaviour on assignment 4.
+A016,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S02,Student B,2026-09-12,Emerging,Emerging,Proficient,Student B showed emerging planning behaviour on assignment 4.
+A016,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S03,Student C,2026-09-12,Accomplished,Proficient,Proficient,Student C showed accomplished planning behaviour on assignment 4.
+A016,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S04,Student D,2026-09-12,Emerging,Not Observed,Emerging,Student D showed emerging planning behaviour on assignment 4.
+A016,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S05,Student E,2026-09-12,Emerging,Emerging,Proficient,Student E showed emerging planning behaviour on assignment 4.
+A016,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S06,Student F,2026-09-12,Not Observed,Emerging,Proficient,Student F showed not observed planning behaviour on assignment 4.
+A016,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S07,Student G,2026-09-12,Proficient,Not Observed,Emerging,Student G showed proficient planning behaviour on assignment 4.
+A016,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S08,Student H,2026-09-12,Proficient,Emerging,Not Observed,Student H showed proficient planning behaviour on assignment 4.
+A016,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S09,Student I,2026-09-12,Emerging,Accomplished,Proficient,Student I showed emerging planning behaviour on assignment 4.
+A016,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T1,Ms. Tan,S10,Student J,2026-09-12,Proficient,Accomplished,Accomplished,Student J showed proficient planning behaviour on assignment 4.
+A017,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S01,Student A,2026-08-01,Not Observed,Not Observed,Not Observed,Student A showed not observed planning behaviour on assignment 1.
+A017,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S02,Student B,2026-08-01,Proficient,Proficient,Accomplished,Student B showed proficient planning behaviour on assignment 1.
+A017,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S03,Student C,2026-08-01,Emerging,Proficient,Emerging,Student C showed emerging planning behaviour on assignment 1.
+A017,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S04,Student D,2026-08-01,Emerging,Not Observed,Not Observed,Student D showed emerging planning behaviour on assignment 1.
+A017,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S05,Student E,2026-08-01,Emerging,Not Observed,Not Observed,Student E showed emerging planning behaviour on assignment 1.
+A017,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S06,Student F,2026-08-01,Emerging,Emerging,Not Observed,Student F showed emerging planning behaviour on assignment 1.
+A017,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S07,Student G,2026-08-01,Emerging,Not Observed,Emerging,Student G showed emerging planning behaviour on assignment 1.
+A017,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S08,Student H,2026-08-01,Not Observed,Not Observed,Emerging,Student H showed not observed planning behaviour on assignment 1.
+A017,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S09,Student I,2026-08-01,Not Observed,Emerging,Not Observed,Student I showed not observed planning behaviour on assignment 1.
+A017,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S10,Student J,2026-08-01,Emerging,Not Observed,Not Observed,Student J showed emerging planning behaviour on assignment 1.
+A018,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S01,Student A,2026-08-15,Not Observed,Not Observed,Proficient,Student A showed not observed planning behaviour on assignment 2.
+A018,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S02,Student B,2026-08-15,Emerging,Proficient,Proficient,Student B showed emerging planning behaviour on assignment 2.
+A018,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S03,Student C,2026-08-15,Not Observed,Not Observed,Not Observed,Student C showed not observed planning behaviour on assignment 2.
+A018,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S04,Student D,2026-08-15,Emerging,Accomplished,Emerging,Student D showed emerging planning behaviour on assignment 2.
+A018,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S05,Student E,2026-08-15,Proficient,Proficient,Proficient,Student E showed proficient planning behaviour on assignment 2.
+A018,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S06,Student F,2026-08-15,Proficient,Accomplished,Not Observed,Student F showed proficient planning behaviour on assignment 2.
+A018,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S07,Student G,2026-08-15,Not Observed,Not Observed,Not Observed,Student G showed not observed planning behaviour on assignment 2.
+A018,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S08,Student H,2026-08-15,Proficient,Emerging,Not Observed,Student H showed proficient planning behaviour on assignment 2.
+A018,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S09,Student I,2026-08-15,Proficient,Proficient,Not Observed,Student I showed proficient planning behaviour on assignment 2.
+A018,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S10,Student J,2026-08-15,Emerging,Proficient,Not Observed,Student J showed emerging planning behaviour on assignment 2.
+A019,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S01,Student A,2026-08-29,Accomplished,Accomplished,Not Observed,Student A showed accomplished planning behaviour on assignment 3.
+A019,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S02,Student B,2026-08-29,Not Observed,Emerging,Proficient,Student B showed not observed planning behaviour on assignment 3.
+A019,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S03,Student C,2026-08-29,Accomplished,Emerging,Proficient,Student C showed accomplished planning behaviour on assignment 3.
+A019,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S04,Student D,2026-08-29,Not Observed,Proficient,Proficient,Student D showed not observed planning behaviour on assignment 3.
+A019,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S05,Student E,2026-08-29,Not Observed,Proficient,Accomplished,Student E showed not observed planning behaviour on assignment 3.
+A019,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S06,Student F,2026-08-29,Proficient,Not Observed,Accomplished,Student F showed proficient planning behaviour on assignment 3.
+A019,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S07,Student G,2026-08-29,Accomplished,Emerging,Emerging,Student G showed accomplished planning behaviour on assignment 3.
+A019,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S08,Student H,2026-08-29,Emerging,Emerging,Emerging,Student H showed emerging planning behaviour on assignment 3.
+A019,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S09,Student I,2026-08-29,Accomplished,Accomplished,Not Observed,Student I showed accomplished planning behaviour on assignment 3.
+A019,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S10,Student J,2026-08-29,Accomplished,Proficient,Accomplished,Student J showed accomplished planning behaviour on assignment 3.
+A020,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S01,Student A,2026-09-12,Proficient,Emerging,Accomplished,Student A showed proficient planning behaviour on assignment 4.
+A020,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S02,Student B,2026-09-12,Accomplished,Emerging,Accomplished,Student B showed accomplished planning behaviour on assignment 4.
+A020,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S03,Student C,2026-09-12,Proficient,Proficient,Emerging,Student C showed proficient planning behaviour on assignment 4.
+A020,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S04,Student D,2026-09-12,Accomplished,Emerging,Accomplished,Student D showed accomplished planning behaviour on assignment 4.
+A020,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S05,Student E,2026-09-12,Accomplished,Not Observed,Accomplished,Student E showed accomplished planning behaviour on assignment 4.
+A020,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S06,Student F,2026-09-12,Emerging,Emerging,Proficient,Student F showed emerging planning behaviour on assignment 4.
+A020,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S07,Student G,2026-09-12,Emerging,Not Observed,Accomplished,Student G showed emerging planning behaviour on assignment 4.
+A020,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S08,Student H,2026-09-12,Not Observed,Not Observed,Accomplished,Student H showed not observed planning behaviour on assignment 4.
+A020,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S09,Student I,2026-09-12,Emerging,Accomplished,Proficient,Student I showed emerging planning behaviour on assignment 4.
+A020,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T1,Ms. Tan,S10,Student J,2026-09-12,Emerging,Not Observed,Accomplished,Student J showed emerging planning behaviour on assignment 4.
+A021,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S01,Student A,2026-08-01,Not Observed,Proficient,Emerging,Student A showed not observed planning behaviour on assignment 1.
+A021,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S02,Student B,2026-08-01,Proficient,Emerging,Emerging,Student B showed proficient planning behaviour on assignment 1.
+A021,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S03,Student C,2026-08-01,Emerging,Proficient,Not Observed,Student C showed emerging planning behaviour on assignment 1.
+A021,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S04,Student D,2026-08-01,Not Observed,Emerging,Not Observed,Student D showed not observed planning behaviour on assignment 1.
+A021,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S05,Student E,2026-08-01,Emerging,Emerging,Emerging,Student E showed emerging planning behaviour on assignment 1.
+A021,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S06,Student F,2026-08-01,Emerging,Proficient,Not Observed,Student F showed emerging planning behaviour on assignment 1.
+A021,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S07,Student G,2026-08-01,Proficient,Not Observed,Not Observed,Student G showed proficient planning behaviour on assignment 1.
+A021,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S08,Student H,2026-08-01,Not Observed,Not Observed,Not Observed,Student H showed not observed planning behaviour on assignment 1.
+A021,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S09,Student I,2026-08-01,Emerging,Proficient,Not Observed,Student I showed emerging planning behaviour on assignment 1.
+A021,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S10,Student J,2026-08-01,Not Observed,Emerging,Proficient,Student J showed not observed planning behaviour on assignment 1.
+A022,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S01,Student A,2026-08-15,Accomplished,Emerging,Not Observed,Student A showed accomplished planning behaviour on assignment 2.
+A022,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S02,Student B,2026-08-15,Not Observed,Not Observed,Not Observed,Student B showed not observed planning behaviour on assignment 2.
+A022,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S03,Student C,2026-08-15,Not Observed,Not Observed,Emerging,Student C showed not observed planning behaviour on assignment 2.
+A022,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S04,Student D,2026-08-15,Not Observed,Accomplished,Emerging,Student D showed not observed planning behaviour on assignment 2.
+A022,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S05,Student E,2026-08-15,Proficient,Not Observed,Accomplished,Student E showed proficient planning behaviour on assignment 2.
+A022,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S06,Student F,2026-08-15,Emerging,Accomplished,Emerging,Student F showed emerging planning behaviour on assignment 2.
+A022,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S07,Student G,2026-08-15,Emerging,Emerging,Not Observed,Student G showed emerging planning behaviour on assignment 2.
+A022,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S08,Student H,2026-08-15,Not Observed,Accomplished,Emerging,Student H showed not observed planning behaviour on assignment 2.
+A022,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S09,Student I,2026-08-15,Proficient,Emerging,Not Observed,Student I showed proficient planning behaviour on assignment 2.
+A022,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S10,Student J,2026-08-15,Proficient,Not Observed,Not Observed,Student J showed proficient planning behaviour on assignment 2.
+A023,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S01,Student A,2026-08-29,Proficient,Emerging,Accomplished,Student A showed proficient planning behaviour on assignment 3.
+A023,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S02,Student B,2026-08-29,Not Observed,Proficient,Proficient,Student B showed not observed planning behaviour on assignment 3.
+A023,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S03,Student C,2026-08-29,Accomplished,Not Observed,Emerging,Student C showed accomplished planning behaviour on assignment 3.
+A023,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S04,Student D,2026-08-29,Emerging,Emerging,Accomplished,Student D showed emerging planning behaviour on assignment 3.
+A023,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S05,Student E,2026-08-29,Accomplished,Emerging,Proficient,Student E showed accomplished planning behaviour on assignment 3.
+A023,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S06,Student F,2026-08-29,Proficient,Proficient,Accomplished,Student F showed proficient planning behaviour on assignment 3.
+A023,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S07,Student G,2026-08-29,Not Observed,Not Observed,Proficient,Student G showed not observed planning behaviour on assignment 3.
+A023,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S08,Student H,2026-08-29,Not Observed,Not Observed,Not Observed,Student H showed not observed planning behaviour on assignment 3.
+A023,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S09,Student I,2026-08-29,Not Observed,Emerging,Proficient,Student I showed not observed planning behaviour on assignment 3.
+A023,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S10,Student J,2026-08-29,Emerging,Not Observed,Proficient,Student J showed emerging planning behaviour on assignment 3.
+A024,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S01,Student A,2026-09-12,Proficient,Emerging,Proficient,Student A showed proficient planning behaviour on assignment 4.
+A024,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S02,Student B,2026-09-12,Accomplished,Accomplished,Proficient,Student B showed accomplished planning behaviour on assignment 4.
+A024,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S03,Student C,2026-09-12,Proficient,Accomplished,Emerging,Student C showed proficient planning behaviour on assignment 4.
+A024,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S04,Student D,2026-09-12,Proficient,Proficient,Accomplished,Student D showed proficient planning behaviour on assignment 4.
+A024,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S05,Student E,2026-09-12,Accomplished,Not Observed,Not Observed,Student E showed accomplished planning behaviour on assignment 4.
+A024,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S06,Student F,2026-09-12,Emerging,Accomplished,Proficient,Student F showed emerging planning behaviour on assignment 4.
+A024,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S07,Student G,2026-09-12,Emerging,Not Observed,Proficient,Student G showed emerging planning behaviour on assignment 4.
+A024,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S08,Student H,2026-09-12,Proficient,Accomplished,Proficient,Student H showed proficient planning behaviour on assignment 4.
+A024,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S09,Student I,2026-09-12,Proficient,Not Observed,Not Observed,Student I showed proficient planning behaviour on assignment 4.
+A024,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T1,Ms. Tan,S10,Student J,2026-09-12,Emerging,Emerging,Emerging,Student J showed emerging planning behaviour on assignment 4.
+A025,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S01,Student A,2026-08-01,Not Observed,Accomplished,Proficient,Student A showed not observed planning behaviour on assignment 1.
+A025,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S02,Student B,2026-08-01,Emerging,Accomplished,Accomplished,Student B showed emerging planning behaviour on assignment 1.
+A025,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S03,Student C,2026-08-01,Emerging,Not Observed,Not Observed,Student C showed emerging planning behaviour on assignment 1.
+A025,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S04,Student D,2026-08-01,Proficient,Emerging,Emerging,Student D showed proficient planning behaviour on assignment 1.
+A025,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S05,Student E,2026-08-01,Accomplished,Not Observed,Emerging,Student E showed accomplished planning behaviour on assignment 1.
+A025,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S06,Student F,2026-08-01,Emerging,Emerging,Not Observed,Student F showed emerging planning behaviour on assignment 1.
+A025,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S07,Student G,2026-08-01,Not Observed,Not Observed,Emerging,Student G showed not observed planning behaviour on assignment 1.
+A025,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S08,Student H,2026-08-01,Proficient,Not Observed,Emerging,Student H showed proficient planning behaviour on assignment 1.
+A025,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S09,Student I,2026-08-01,Not Observed,Accomplished,Proficient,Student I showed not observed planning behaviour on assignment 1.
+A025,Assignment 1,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S10,Student J,2026-08-01,Emerging,Emerging,Not Observed,Student J showed emerging planning behaviour on assignment 1.
+A026,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S01,Student A,2026-08-15,Not Observed,Accomplished,Emerging,Student A showed not observed planning behaviour on assignment 2.
+A026,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S02,Student B,2026-08-15,Emerging,Accomplished,Proficient,Student B showed emerging planning behaviour on assignment 2.
+A026,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S03,Student C,2026-08-15,Emerging,Emerging,Not Observed,Student C showed emerging planning behaviour on assignment 2.
+A026,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S04,Student D,2026-08-15,Emerging,Proficient,Proficient,Student D showed emerging planning behaviour on assignment 2.
+A026,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S05,Student E,2026-08-15,Proficient,Not Observed,Emerging,Student E showed proficient planning behaviour on assignment 2.
+A026,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S06,Student F,2026-08-15,Accomplished,Emerging,Proficient,Student F showed accomplished planning behaviour on assignment 2.
+A026,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S07,Student G,2026-08-15,Not Observed,Accomplished,Emerging,Student G showed not observed planning behaviour on assignment 2.
+A026,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S08,Student H,2026-08-15,Not Observed,Not Observed,Emerging,Student H showed not observed planning behaviour on assignment 2.
+A026,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S09,Student I,2026-08-15,Emerging,Not Observed,Accomplished,Student I showed emerging planning behaviour on assignment 2.
+A026,Assignment 2,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S10,Student J,2026-08-15,Accomplished,Emerging,Not Observed,Student J showed accomplished planning behaviour on assignment 2.
+A027,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S01,Student A,2026-08-29,Accomplished,Emerging,Proficient,Student A showed accomplished planning behaviour on assignment 3.
+A027,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S02,Student B,2026-08-29,Emerging,Not Observed,Accomplished,Student B showed emerging planning behaviour on assignment 3.
+A027,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S03,Student C,2026-08-29,Accomplished,Not Observed,Proficient,Student C showed accomplished planning behaviour on assignment 3.
+A027,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S04,Student D,2026-08-29,Emerging,Accomplished,Emerging,Student D showed emerging planning behaviour on assignment 3.
+A027,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S05,Student E,2026-08-29,Accomplished,Accomplished,Not Observed,Student E showed accomplished planning behaviour on assignment 3.
+A027,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S06,Student F,2026-08-29,Accomplished,Emerging,Accomplished,Student F showed accomplished planning behaviour on assignment 3.
+A027,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S07,Student G,2026-08-29,Emerging,Accomplished,Emerging,Student G showed emerging planning behaviour on assignment 3.
+A027,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S08,Student H,2026-08-29,Emerging,Proficient,Accomplished,Student H showed emerging planning behaviour on assignment 3.
+A027,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S09,Student I,2026-08-29,Emerging,Not Observed,Emerging,Student I showed emerging planning behaviour on assignment 3.
+A027,Assignment 3,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S10,Student J,2026-08-29,Emerging,Proficient,Emerging,Student J showed emerging planning behaviour on assignment 3.
+A028,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S01,Student A,2026-09-12,Emerging,Emerging,Not Observed,Student A showed emerging planning behaviour on assignment 4.
+A028,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S02,Student B,2026-09-12,Proficient,Proficient,Emerging,Student B showed proficient planning behaviour on assignment 4.
+A028,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S03,Student C,2026-09-12,Accomplished,Not Observed,Accomplished,Student C showed accomplished planning behaviour on assignment 4.
+A028,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S04,Student D,2026-09-12,Proficient,Accomplished,Emerging,Student D showed proficient planning behaviour on assignment 4.
+A028,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S05,Student E,2026-09-12,Proficient,Accomplished,Accomplished,Student E showed proficient planning behaviour on assignment 4.
+A028,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S06,Student F,2026-09-12,Proficient,Not Observed,Proficient,Student F showed proficient planning behaviour on assignment 4.
+A028,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S07,Student G,2026-09-12,Proficient,Accomplished,Accomplished,Student G showed proficient planning behaviour on assignment 4.
+A028,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S08,Student H,2026-09-12,Emerging,Proficient,Emerging,Student H showed emerging planning behaviour on assignment 4.
+A028,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S09,Student I,2026-09-12,Accomplished,Emerging,Proficient,Student I showed accomplished planning behaviour on assignment 4.
+A028,Assignment 4,Secondary 3 Physics,C3A,Class 3A,T2,Mr. Rahman,S10,Student J,2026-09-12,Not Observed,Proficient,Accomplished,Student J showed not observed planning behaviour on assignment 4.
+A029,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S01,Student A,2026-08-01,Not Observed,Emerging,Emerging,Student A showed not observed planning behaviour on assignment 1.
+A029,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S02,Student B,2026-08-01,Proficient,Proficient,Proficient,Student B showed proficient planning behaviour on assignment 1.
+A029,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S03,Student C,2026-08-01,Not Observed,Not Observed,Proficient,Student C showed not observed planning behaviour on assignment 1.
+A029,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S04,Student D,2026-08-01,Proficient,Proficient,Not Observed,Student D showed proficient planning behaviour on assignment 1.
+A029,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S05,Student E,2026-08-01,Not Observed,Emerging,Accomplished,Student E showed not observed planning behaviour on assignment 1.
+A029,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S06,Student F,2026-08-01,Accomplished,Proficient,Emerging,Student F showed accomplished planning behaviour on assignment 1.
+A029,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S07,Student G,2026-08-01,Not Observed,Emerging,Proficient,Student G showed not observed planning behaviour on assignment 1.
+A029,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S08,Student H,2026-08-01,Emerging,Emerging,Accomplished,Student H showed emerging planning behaviour on assignment 1.
+A029,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S09,Student I,2026-08-01,Not Observed,Proficient,Not Observed,Student I showed not observed planning behaviour on assignment 1.
+A029,Assignment 1,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S10,Student J,2026-08-01,Not Observed,Not Observed,Emerging,Student J showed not observed planning behaviour on assignment 1.
+A030,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S01,Student A,2026-08-15,Emerging,Proficient,Not Observed,Student A showed emerging planning behaviour on assignment 2.
+A030,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S02,Student B,2026-08-15,Not Observed,Accomplished,Emerging,Student B showed not observed planning behaviour on assignment 2.
+A030,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S03,Student C,2026-08-15,Not Observed,Accomplished,Not Observed,Student C showed not observed planning behaviour on assignment 2.
+A030,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S04,Student D,2026-08-15,Emerging,Not Observed,Not Observed,Student D showed emerging planning behaviour on assignment 2.
+A030,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S05,Student E,2026-08-15,Not Observed,Proficient,Accomplished,Student E showed not observed planning behaviour on assignment 2.
+A030,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S06,Student F,2026-08-15,Proficient,Not Observed,Emerging,Student F showed proficient planning behaviour on assignment 2.
+A030,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S07,Student G,2026-08-15,Emerging,Emerging,Proficient,Student G showed emerging planning behaviour on assignment 2.
+A030,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S08,Student H,2026-08-15,Emerging,Not Observed,Accomplished,Student H showed emerging planning behaviour on assignment 2.
+A030,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S09,Student I,2026-08-15,Not Observed,Emerging,Emerging,Student I showed not observed planning behaviour on assignment 2.
+A030,Assignment 2,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S10,Student J,2026-08-15,Not Observed,Emerging,Emerging,Student J showed not observed planning behaviour on assignment 2.
+A031,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S01,Student A,2026-08-29,Accomplished,Emerging,Accomplished,Student A showed accomplished planning behaviour on assignment 3.
+A031,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S02,Student B,2026-08-29,Proficient,Not Observed,Proficient,Student B showed proficient planning behaviour on assignment 3.
+A031,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S03,Student C,2026-08-29,Proficient,Proficient,Not Observed,Student C showed proficient planning behaviour on assignment 3.
+A031,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S04,Student D,2026-08-29,Proficient,Emerging,Accomplished,Student D showed proficient planning behaviour on assignment 3.
+A031,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S05,Student E,2026-08-29,Emerging,Accomplished,Proficient,Student E showed emerging planning behaviour on assignment 3.
+A031,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S06,Student F,2026-08-29,Emerging,Proficient,Proficient,Student F showed emerging planning behaviour on assignment 3.
+A031,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S07,Student G,2026-08-29,Proficient,Proficient,Proficient,Student G showed proficient planning behaviour on assignment 3.
+A031,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S08,Student H,2026-08-29,Accomplished,Proficient,Accomplished,Student H showed accomplished planning behaviour on assignment 3.
+A031,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S09,Student I,2026-08-29,Proficient,Emerging,Emerging,Student I showed proficient planning behaviour on assignment 3.
+A031,Assignment 3,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S10,Student J,2026-08-29,Proficient,Proficient,Not Observed,Student J showed proficient planning behaviour on assignment 3.
+A032,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S01,Student A,2026-09-12,Emerging,Accomplished,Not Observed,Student A showed emerging planning behaviour on assignment 4.
+A032,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S02,Student B,2026-09-12,Not Observed,Proficient,Accomplished,Student B showed not observed planning behaviour on assignment 4.
+A032,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S03,Student C,2026-09-12,Proficient,Accomplished,Accomplished,Student C showed proficient planning behaviour on assignment 4.
+A032,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S04,Student D,2026-09-12,Emerging,Accomplished,Proficient,Student D showed emerging planning behaviour on assignment 4.
+A032,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S05,Student E,2026-09-12,Accomplished,Accomplished,Emerging,Student E showed accomplished planning behaviour on assignment 4.
+A032,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S06,Student F,2026-09-12,Not Observed,Accomplished,Not Observed,Student F showed not observed planning behaviour on assignment 4.
+A032,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S07,Student G,2026-09-12,Accomplished,Accomplished,Accomplished,Student G showed accomplished planning behaviour on assignment 4.
+A032,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S08,Student H,2026-09-12,Accomplished,Accomplished,Accomplished,Student H showed accomplished planning behaviour on assignment 4.
+A032,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S09,Student I,2026-09-12,Emerging,Accomplished,Not Observed,Student I showed emerging planning behaviour on assignment 4.
+A032,Assignment 4,Secondary 3 Physics,C3B,Class 3B,T2,Mr. Rahman,S10,Student J,2026-09-12,Proficient,Emerging,Proficient,Student J showed proficient planning behaviour on assignment 4.
+A033,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S01,Student A,2026-08-01,Emerging,Emerging,Proficient,Student A showed emerging planning behaviour on assignment 1.
+A033,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S02,Student B,2026-08-01,Accomplished,Not Observed,Not Observed,Student B showed accomplished planning behaviour on assignment 1.
+A033,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S03,Student C,2026-08-01,Not Observed,Proficient,Emerging,Student C showed not observed planning behaviour on assignment 1.
+A033,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S04,Student D,2026-08-01,Accomplished,Not Observed,Not Observed,Student D showed accomplished planning behaviour on assignment 1.
+A033,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S05,Student E,2026-08-01,Proficient,Accomplished,Not Observed,Student E showed proficient planning behaviour on assignment 1.
+A033,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S06,Student F,2026-08-01,Emerging,Not Observed,Accomplished,Student F showed emerging planning behaviour on assignment 1.
+A033,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S07,Student G,2026-08-01,Not Observed,Emerging,Not Observed,Student G showed not observed planning behaviour on assignment 1.
+A033,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S08,Student H,2026-08-01,Proficient,Not Observed,Emerging,Student H showed proficient planning behaviour on assignment 1.
+A033,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S09,Student I,2026-08-01,Emerging,Proficient,Accomplished,Student I showed emerging planning behaviour on assignment 1.
+A033,Assignment 1,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S10,Student J,2026-08-01,Emerging,Proficient,Not Observed,Student J showed emerging planning behaviour on assignment 1.
+A034,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S01,Student A,2026-08-15,Emerging,Not Observed,Emerging,Student A showed emerging planning behaviour on assignment 2.
+A034,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S02,Student B,2026-08-15,Emerging,Accomplished,Not Observed,Student B showed emerging planning behaviour on assignment 2.
+A034,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S03,Student C,2026-08-15,Emerging,Emerging,Accomplished,Student C showed emerging planning behaviour on assignment 2.
+A034,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S04,Student D,2026-08-15,Accomplished,Not Observed,Proficient,Student D showed accomplished planning behaviour on assignment 2.
+A034,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S05,Student E,2026-08-15,Emerging,Accomplished,Emerging,Student E showed emerging planning behaviour on assignment 2.
+A034,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S06,Student F,2026-08-15,Emerging,Not Observed,Not Observed,Student F showed emerging planning behaviour on assignment 2.
+A034,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S07,Student G,2026-08-15,Accomplished,Emerging,Proficient,Student G showed accomplished planning behaviour on assignment 2.
+A034,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S08,Student H,2026-08-15,Proficient,Emerging,Not Observed,Student H showed proficient planning behaviour on assignment 2.
+A034,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S09,Student I,2026-08-15,Proficient,Not Observed,Not Observed,Student I showed proficient planning behaviour on assignment 2.
+A034,Assignment 2,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S10,Student J,2026-08-15,Emerging,Not Observed,Proficient,Student J showed emerging planning behaviour on assignment 2.
+A035,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S01,Student A,2026-08-29,Not Observed,Not Observed,Accomplished,Student A showed not observed planning behaviour on assignment 3.
+A035,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S02,Student B,2026-08-29,Emerging,Not Observed,Accomplished,Student B showed emerging planning behaviour on assignment 3.
+A035,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S03,Student C,2026-08-29,Not Observed,Accomplished,Not Observed,Student C showed not observed planning behaviour on assignment 3.
+A035,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S04,Student D,2026-08-29,Not Observed,Not Observed,Not Observed,Student D showed not observed planning behaviour on assignment 3.
+A035,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S05,Student E,2026-08-29,Proficient,Not Observed,Not Observed,Student E showed proficient planning behaviour on assignment 3.
+A035,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S06,Student F,2026-08-29,Accomplished,Not Observed,Emerging,Student F showed accomplished planning behaviour on assignment 3.
+A035,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S07,Student G,2026-08-29,Not Observed,Not Observed,Proficient,Student G showed not observed planning behaviour on assignment 3.
+A035,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S08,Student H,2026-08-29,Emerging,Proficient,Emerging,Student H showed emerging planning behaviour on assignment 3.
+A035,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S09,Student I,2026-08-29,Proficient,Emerging,Not Observed,Student I showed proficient planning behaviour on assignment 3.
+A035,Assignment 3,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S10,Student J,2026-08-29,Emerging,Accomplished,Not Observed,Student J showed emerging planning behaviour on assignment 3.
+A036,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S01,Student A,2026-09-12,Accomplished,Accomplished,Proficient,Student A showed accomplished planning behaviour on assignment 4.
+A036,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S02,Student B,2026-09-12,Emerging,Accomplished,Not Observed,Student B showed emerging planning behaviour on assignment 4.
+A036,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S03,Student C,2026-09-12,Proficient,Emerging,Proficient,Student C showed proficient planning behaviour on assignment 4.
+A036,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S04,Student D,2026-09-12,Proficient,Accomplished,Not Observed,Student D showed proficient planning behaviour on assignment 4.
+A036,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S05,Student E,2026-09-12,Not Observed,Proficient,Not Observed,Student E showed not observed planning behaviour on assignment 4.
+A036,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S06,Student F,2026-09-12,Emerging,Proficient,Proficient,Student F showed emerging planning behaviour on assignment 4.
+A036,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S07,Student G,2026-09-12,Emerging,Accomplished,Proficient,Student G showed emerging planning behaviour on assignment 4.
+A036,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S08,Student H,2026-09-12,Emerging,Proficient,Not Observed,Student H showed emerging planning behaviour on assignment 4.
+A036,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S09,Student I,2026-09-12,Proficient,Accomplished,Proficient,Student I showed proficient planning behaviour on assignment 4.
+A036,Assignment 4,Secondary 3 Physics,C4A,Class 4A,T2,Mr. Rahman,S10,Student J,2026-09-12,Accomplished,Accomplished,Not Observed,Student J showed accomplished planning behaviour on assignment 4.
+A037,Assignment 1,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S01,Student A,2026-08-01,Emerging,Not Observed,Not Observed,Student A showed emerging planning behaviour on assignment 1.
+A037,Assignment 1,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S02,Student B,2026-08-01,Emerging,Emerging,Not Observed,Student B showed emerging planning behaviour on assignment 1.
+A037,Assignment 1,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S03,Student C,2026-08-01,Emerging,Emerging,Not Observed,Student C showed emerging planning behaviour on assignment 1.
+A037,Assignment 1,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S04,Student D,2026-08-01,Not Observed,Accomplished,Not Observed,Student D showed not observed planning behaviour on assignment 1.
+A037,Assignment 1,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S05,Student E,2026-08-01,Proficient,Not Observed,Not Observed,Student E showed proficient planning behaviour on assignment 1.
+A037,Assignment 1,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S06,Student F,2026-08-01,Proficient,Proficient,Emerging,Student F showed proficient planning behaviour on assignment 1.
+A037,Assignment 1,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S07,Student G,2026-08-01,Emerging,Emerging,Not Observed,Student G showed emerging planning behaviour on assignment 1.
+A037,Assignment 1,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S08,Student H,2026-08-01,Not Observed,Not Observed,Emerging,Student H showed not observed planning behaviour on assignment 1.
+A037,Assignment 1,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S09,Student I,2026-08-01,Proficient,Proficient,Proficient,Student I showed proficient planning behaviour on assignment 1.
+A037,Assignment 1,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S10,Student J,2026-08-01,Accomplished,Emerging,Not Observed,Student J showed accomplished planning behaviour on assignment 1.
+A038,Assignment 2,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S01,Student A,2026-08-15,Emerging,Not Observed,Proficient,Student A showed emerging planning behaviour on assignment 2.
+A038,Assignment 2,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S02,Student B,2026-08-15,Not Observed,Not Observed,Accomplished,Student B showed not observed planning behaviour on assignment 2.
+A038,Assignment 2,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S03,Student C,2026-08-15,Emerging,Proficient,Emerging,Student C showed emerging planning behaviour on assignment 2.
+A038,Assignment 2,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S04,Student D,2026-08-15,Proficient,Accomplished,Accomplished,Student D showed proficient planning behaviour on assignment 2.
+A038,Assignment 2,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S05,Student E,2026-08-15,Proficient,Emerging,Proficient,Student E showed proficient planning behaviour on assignment 2.
+A038,Assignment 2,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S06,Student F,2026-08-15,Not Observed,Accomplished,Proficient,Student F showed not observed planning behaviour on assignment 2.
+A038,Assignment 2,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S07,Student G,2026-08-15,Not Observed,Not Observed,Proficient,Student G showed not observed planning behaviour on assignment 2.
+A038,Assignment 2,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S08,Student H,2026-08-15,Not Observed,Not Observed,Not Observed,Student H showed not observed planning behaviour on assignment 2.
+A038,Assignment 2,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S09,Student I,2026-08-15,Accomplished,Emerging,Emerging,Student I showed accomplished planning behaviour on assignment 2.
+A038,Assignment 2,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S10,Student J,2026-08-15,Not Observed,Proficient,Not Observed,Student J showed not observed planning behaviour on assignment 2.
+A039,Assignment 3,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S01,Student A,2026-08-29,Proficient,Not Observed,Emerging,Student A showed proficient planning behaviour on assignment 3.
+A039,Assignment 3,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S02,Student B,2026-08-29,Emerging,Emerging,Proficient,Student B showed emerging planning behaviour on assignment 3.
+A039,Assignment 3,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S03,Student C,2026-08-29,Proficient,Proficient,Not Observed,Student C showed proficient planning behaviour on assignment 3.
+A039,Assignment 3,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S04,Student D,2026-08-29,Not Observed,Not Observed,Proficient,Student D showed not observed planning behaviour on assignment 3.
+A039,Assignment 3,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S05,Student E,2026-08-29,Proficient,Not Observed,Proficient,Student E showed proficient planning behaviour on assignment 3.
+A039,Assignment 3,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S06,Student F,2026-08-29,Emerging,Emerging,Not Observed,Student F showed emerging planning behaviour on assignment 3.
+A039,Assignment 3,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S07,Student G,2026-08-29,Proficient,Not Observed,Emerging,Student G showed proficient planning behaviour on assignment 3.
+A039,Assignment 3,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S08,Student H,2026-08-29,Emerging,Proficient,Emerging,Student H showed emerging planning behaviour on assignment 3.
+A039,Assignment 3,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S09,Student I,2026-08-29,Proficient,Not Observed,Emerging,Student I showed proficient planning behaviour on assignment 3.
+A039,Assignment 3,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S10,Student J,2026-08-29,Proficient,Not Observed,Emerging,Student J showed proficient planning behaviour on assignment 3.
+A040,Assignment 4,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S01,Student A,2026-09-12,Not Observed,Not Observed,Emerging,Student A showed not observed planning behaviour on assignment 4.
+A040,Assignment 4,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S02,Student B,2026-09-12,Emerging,Not Observed,Accomplished,Student B showed emerging planning behaviour on assignment 4.
+A040,Assignment 4,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S03,Student C,2026-09-12,Not Observed,Emerging,Proficient,Student C showed not observed planning behaviour on assignment 4.
+A040,Assignment 4,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S04,Student D,2026-09-12,Proficient,Accomplished,Accomplished,Student D showed proficient planning behaviour on assignment 4.
+A040,Assignment 4,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S05,Student E,2026-09-12,Not Observed,Accomplished,Not Observed,Student E showed not observed planning behaviour on assignment 4.
+A040,Assignment 4,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S06,Student F,2026-09-12,Not Observed,Accomplished,Accomplished,Student F showed not observed planning behaviour on assignment 4.
+A040,Assignment 4,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S07,Student G,2026-09-12,Proficient,Proficient,Proficient,Student G showed proficient planning behaviour on assignment 4.
+A040,Assignment 4,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S08,Student H,2026-09-12,Emerging,Not Observed,Not Observed,Student H showed emerging planning behaviour on assignment 4.
+A040,Assignment 4,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S09,Student I,2026-09-12,Emerging,Accomplished,Proficient,Student I showed emerging planning behaviour on assignment 4.
+A040,Assignment 4,Secondary 4 Physics,C3A,Class 3A,T2,Mr. Rahman,S10,Student J,2026-09-12,Accomplished,Accomplished,Not Observed,Student J showed accomplished planning behaviour on assignment 4.
+A041,Assignment 1,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S01,Student A,2026-08-01,Proficient,Not Observed,Emerging,Student A showed proficient planning behaviour on assignment 1.
+A041,Assignment 1,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S02,Student B,2026-08-01,Emerging,Not Observed,Not Observed,Student B showed emerging planning behaviour on assignment 1.
+A041,Assignment 1,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S03,Student C,2026-08-01,Not Observed,Not Observed,Not Observed,Student C showed not observed planning behaviour on assignment 1.
+A041,Assignment 1,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S04,Student D,2026-08-01,Emerging,Not Observed,Emerging,Student D showed emerging planning behaviour on assignment 1.
+A041,Assignment 1,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S05,Student E,2026-08-01,Accomplished,Not Observed,Proficient,Student E showed accomplished planning behaviour on assignment 1.
+A041,Assignment 1,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S06,Student F,2026-08-01,Proficient,Proficient,Not Observed,Student F showed proficient planning behaviour on assignment 1.
+A041,Assignment 1,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S07,Student G,2026-08-01,Not Observed,Not Observed,Emerging,Student G showed not observed planning behaviour on assignment 1.
+A041,Assignment 1,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S08,Student H,2026-08-01,Proficient,Emerging,Not Observed,Student H showed proficient planning behaviour on assignment 1.
+A041,Assignment 1,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S09,Student I,2026-08-01,Proficient,Emerging,Proficient,Student I showed proficient planning behaviour on assignment 1.
+A041,Assignment 1,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S10,Student J,2026-08-01,Proficient,Emerging,Accomplished,Student J showed proficient planning behaviour on assignment 1.
+A042,Assignment 2,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S01,Student A,2026-08-15,Emerging,Proficient,Proficient,Student A showed emerging planning behaviour on assignment 2.
+A042,Assignment 2,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S02,Student B,2026-08-15,Accomplished,Proficient,Not Observed,Student B showed accomplished planning behaviour on assignment 2.
+A042,Assignment 2,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S03,Student C,2026-08-15,Not Observed,Emerging,Not Observed,Student C showed not observed planning behaviour on assignment 2.
+A042,Assignment 2,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S04,Student D,2026-08-15,Not Observed,Not Observed,Emerging,Student D showed not observed planning behaviour on assignment 2.
+A042,Assignment 2,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S05,Student E,2026-08-15,Not Observed,Emerging,Not Observed,Student E showed not observed planning behaviour on assignment 2.
+A042,Assignment 2,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S06,Student F,2026-08-15,Proficient,Not Observed,Accomplished,Student F showed proficient planning behaviour on assignment 2.
+A042,Assignment 2,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S07,Student G,2026-08-15,Accomplished,Emerging,Emerging,Student G showed accomplished planning behaviour on assignment 2.
+A042,Assignment 2,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S08,Student H,2026-08-15,Emerging,Emerging,Proficient,Student H showed emerging planning behaviour on assignment 2.
+A042,Assignment 2,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S09,Student I,2026-08-15,Accomplished,Emerging,Proficient,Student I showed accomplished planning behaviour on assignment 2.
+A042,Assignment 2,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S10,Student J,2026-08-15,Proficient,Not Observed,Emerging,Student J showed proficient planning behaviour on assignment 2.
+A043,Assignment 3,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S01,Student A,2026-08-29,Not Observed,Not Observed,Not Observed,Student A showed not observed planning behaviour on assignment 3.
+A043,Assignment 3,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S02,Student B,2026-08-29,Accomplished,Emerging,Proficient,Student B showed accomplished planning behaviour on assignment 3.
+A043,Assignment 3,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S03,Student C,2026-08-29,Emerging,Not Observed,Not Observed,Student C showed emerging planning behaviour on assignment 3.
+A043,Assignment 3,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S04,Student D,2026-08-29,Emerging,Emerging,Emerging,Student D showed emerging planning behaviour on assignment 3.
+A043,Assignment 3,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S05,Student E,2026-08-29,Not Observed,Emerging,Emerging,Student E showed not observed planning behaviour on assignment 3.
+A043,Assignment 3,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S06,Student F,2026-08-29,Emerging,Emerging,Proficient,Student F showed emerging planning behaviour on assignment 3.
+A043,Assignment 3,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S07,Student G,2026-08-29,Accomplished,Proficient,Not Observed,Student G showed accomplished planning behaviour on assignment 3.
+A043,Assignment 3,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S08,Student H,2026-08-29,Not Observed,Proficient,Emerging,Student H showed not observed planning behaviour on assignment 3.
+A043,Assignment 3,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S09,Student I,2026-08-29,Proficient,Proficient,Accomplished,Student I showed proficient planning behaviour on assignment 3.
+A043,Assignment 3,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S10,Student J,2026-08-29,Accomplished,Emerging,Proficient,Student J showed accomplished planning behaviour on assignment 3.
+A044,Assignment 4,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S01,Student A,2026-09-12,Not Observed,Emerging,Accomplished,Student A showed not observed planning behaviour on assignment 4.
+A044,Assignment 4,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S02,Student B,2026-09-12,Proficient,Emerging,Proficient,Student B showed proficient planning behaviour on assignment 4.
+A044,Assignment 4,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S03,Student C,2026-09-12,Accomplished,Emerging,Emerging,Student C showed accomplished planning behaviour on assignment 4.
+A044,Assignment 4,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S04,Student D,2026-09-12,Accomplished,Accomplished,Proficient,Student D showed accomplished planning behaviour on assignment 4.
+A044,Assignment 4,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S05,Student E,2026-09-12,Accomplished,Accomplished,Proficient,Student E showed accomplished planning behaviour on assignment 4.
+A044,Assignment 4,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S06,Student F,2026-09-12,Proficient,Proficient,Emerging,Student F showed proficient planning behaviour on assignment 4.
+A044,Assignment 4,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S07,Student G,2026-09-12,Emerging,Emerging,Not Observed,Student G showed emerging planning behaviour on assignment 4.
+A044,Assignment 4,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S08,Student H,2026-09-12,Not Observed,Accomplished,Proficient,Student H showed not observed planning behaviour on assignment 4.
+A044,Assignment 4,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S09,Student I,2026-09-12,Emerging,Not Observed,Not Observed,Student I showed emerging planning behaviour on assignment 4.
+A044,Assignment 4,Secondary 4 Physics,C3B,Class 3B,T2,Mr. Rahman,S10,Student J,2026-09-12,Accomplished,Not Observed,Accomplished,Student J showed accomplished planning behaviour on assignment 4.
+A045,Assignment 1,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S01,Student A,2026-08-01,Proficient,Proficient,Not Observed,Student A showed proficient planning behaviour on assignment 1.
+A045,Assignment 1,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S02,Student B,2026-08-01,Not Observed,Proficient,Not Observed,Student B showed not observed planning behaviour on assignment 1.
+A045,Assignment 1,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S03,Student C,2026-08-01,Not Observed,Not Observed,Proficient,Student C showed not observed planning behaviour on assignment 1.
+A045,Assignment 1,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S04,Student D,2026-08-01,Proficient,Proficient,Not Observed,Student D showed proficient planning behaviour on assignment 1.
+A045,Assignment 1,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S05,Student E,2026-08-01,Emerging,Emerging,Emerging,Student E showed emerging planning behaviour on assignment 1.
+A045,Assignment 1,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S06,Student F,2026-08-01,Not Observed,Emerging,Not Observed,Student F showed not observed planning behaviour on assignment 1.
+A045,Assignment 1,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S07,Student G,2026-08-01,Proficient,Emerging,Emerging,Student G showed proficient planning behaviour on assignment 1.
+A045,Assignment 1,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S08,Student H,2026-08-01,Not Observed,Proficient,Emerging,Student H showed not observed planning behaviour on assignment 1.
+A045,Assignment 1,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S09,Student I,2026-08-01,Proficient,Not Observed,Accomplished,Student I showed proficient planning behaviour on assignment 1.
+A045,Assignment 1,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S10,Student J,2026-08-01,Accomplished,Emerging,Not Observed,Student J showed accomplished planning behaviour on assignment 1.
+A046,Assignment 2,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S01,Student A,2026-08-15,Emerging,Emerging,Accomplished,Student A showed emerging planning behaviour on assignment 2.
+A046,Assignment 2,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S02,Student B,2026-08-15,Proficient,Proficient,Not Observed,Student B showed proficient planning behaviour on assignment 2.
+A046,Assignment 2,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S03,Student C,2026-08-15,Not Observed,Proficient,Accomplished,Student C showed not observed planning behaviour on assignment 2.
+A046,Assignment 2,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S04,Student D,2026-08-15,Emerging,Not Observed,Accomplished,Student D showed emerging planning behaviour on assignment 2.
+A046,Assignment 2,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S05,Student E,2026-08-15,Accomplished,Not Observed,Proficient,Student E showed accomplished planning behaviour on assignment 2.
+A046,Assignment 2,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S06,Student F,2026-08-15,Not Observed,Accomplished,Not Observed,Student F showed not observed planning behaviour on assignment 2.
+A046,Assignment 2,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S07,Student G,2026-08-15,Emerging,Accomplished,Not Observed,Student G showed emerging planning behaviour on assignment 2.
+A046,Assignment 2,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S08,Student H,2026-08-15,Emerging,Emerging,Not Observed,Student H showed emerging planning behaviour on assignment 2.
+A046,Assignment 2,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S09,Student I,2026-08-15,Not Observed,Emerging,Not Observed,Student I showed not observed planning behaviour on assignment 2.
+A046,Assignment 2,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S10,Student J,2026-08-15,Accomplished,Emerging,Not Observed,Student J showed accomplished planning behaviour on assignment 2.
+A047,Assignment 3,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S01,Student A,2026-08-29,Accomplished,Accomplished,Proficient,Student A showed accomplished planning behaviour on assignment 3.
+A047,Assignment 3,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S02,Student B,2026-08-29,Accomplished,Not Observed,Emerging,Student B showed accomplished planning behaviour on assignment 3.
+A047,Assignment 3,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S03,Student C,2026-08-29,Accomplished,Proficient,Not Observed,Student C showed accomplished planning behaviour on assignment 3.
+A047,Assignment 3,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S04,Student D,2026-08-29,Proficient,Emerging,Not Observed,Student D showed proficient planning behaviour on assignment 3.
+A047,Assignment 3,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S05,Student E,2026-08-29,Not Observed,Not Observed,Accomplished,Student E showed not observed planning behaviour on assignment 3.
+A047,Assignment 3,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S06,Student F,2026-08-29,Proficient,Proficient,Emerging,Student F showed proficient planning behaviour on assignment 3.
+A047,Assignment 3,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S07,Student G,2026-08-29,Not Observed,Emerging,Emerging,Student G showed not observed planning behaviour on assignment 3.
+A047,Assignment 3,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S08,Student H,2026-08-29,Not Observed,Emerging,Accomplished,Student H showed not observed planning behaviour on assignment 3.
+A047,Assignment 3,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S09,Student I,2026-08-29,Emerging,Not Observed,Accomplished,Student I showed emerging planning behaviour on assignment 3.
+A047,Assignment 3,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S10,Student J,2026-08-29,Proficient,Not Observed,Emerging,Student J showed proficient planning behaviour on assignment 3.
+A048,Assignment 4,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S01,Student A,2026-09-12,Emerging,Not Observed,Emerging,Student A showed emerging planning behaviour on assignment 4.
+A048,Assignment 4,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S02,Student B,2026-09-12,Proficient,Emerging,Emerging,Student B showed proficient planning behaviour on assignment 4.
+A048,Assignment 4,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S03,Student C,2026-09-12,Proficient,Not Observed,Accomplished,Student C showed proficient planning behaviour on assignment 4.
+A048,Assignment 4,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S04,Student D,2026-09-12,Not Observed,Proficient,Proficient,Student D showed not observed planning behaviour on assignment 4.
+A048,Assignment 4,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S05,Student E,2026-09-12,Accomplished,Proficient,Emerging,Student E showed accomplished planning behaviour on assignment 4.
+A048,Assignment 4,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S06,Student F,2026-09-12,Proficient,Proficient,Accomplished,Student F showed proficient planning behaviour on assignment 4.
+A048,Assignment 4,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S07,Student G,2026-09-12,Emerging,Not Observed,Accomplished,Student G showed emerging planning behaviour on assignment 4.
+A048,Assignment 4,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S08,Student H,2026-09-12,Emerging,Accomplished,Proficient,Student H showed emerging planning behaviour on assignment 4.
+A048,Assignment 4,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S09,Student I,2026-09-12,Accomplished,Accomplished,Emerging,Student I showed accomplished planning behaviour on assignment 4.
+A048,Assignment 4,Secondary 4 Physics,C4A,Class 4A,T2,Mr. Rahman,S10,Student J,2026-09-12,Not Observed,Proficient,Accomplished,Student J showed not observed planning behaviour on assignment 4.
+A049,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S01,Student A,2026-08-01,Not Observed,Proficient,Emerging,Student A showed not observed planning behaviour on assignment 1.
+A049,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S02,Student B,2026-08-01,Emerging,Emerging,Proficient,Student B showed emerging planning behaviour on assignment 1.
+A049,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S03,Student C,2026-08-01,Not Observed,Proficient,Emerging,Student C showed not observed planning behaviour on assignment 1.
+A049,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S04,Student D,2026-08-01,Not Observed,Not Observed,Not Observed,Student D showed not observed planning behaviour on assignment 1.
+A049,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S05,Student E,2026-08-01,Not Observed,Accomplished,Emerging,Student E showed not observed planning behaviour on assignment 1.
+A049,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S06,Student F,2026-08-01,Accomplished,Emerging,Not Observed,Student F showed accomplished planning behaviour on assignment 1.
+A049,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S07,Student G,2026-08-01,Proficient,Not Observed,Not Observed,Student G showed proficient planning behaviour on assignment 1.
+A049,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S08,Student H,2026-08-01,Proficient,Proficient,Not Observed,Student H showed proficient planning behaviour on assignment 1.
+A049,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S09,Student I,2026-08-01,Not Observed,Not Observed,Proficient,Student I showed not observed planning behaviour on assignment 1.
+A049,Assignment 1,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S10,Student J,2026-08-01,Proficient,Proficient,Not Observed,Student J showed proficient planning behaviour on assignment 1.
+A050,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S01,Student A,2026-08-15,Accomplished,Emerging,Emerging,Student A showed accomplished planning behaviour on assignment 2.
+A050,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S02,Student B,2026-08-15,Accomplished,Emerging,Proficient,Student B showed accomplished planning behaviour on assignment 2.
+A050,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S03,Student C,2026-08-15,Proficient,Not Observed,Emerging,Student C showed proficient planning behaviour on assignment 2.
+A050,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S04,Student D,2026-08-15,Proficient,Emerging,Not Observed,Student D showed proficient planning behaviour on assignment 2.
+A050,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S05,Student E,2026-08-15,Not Observed,Proficient,Not Observed,Student E showed not observed planning behaviour on assignment 2.
+A050,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S06,Student F,2026-08-15,Emerging,Emerging,Proficient,Student F showed emerging planning behaviour on assignment 2.
+A050,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S07,Student G,2026-08-15,Emerging,Not Observed,Accomplished,Student G showed emerging planning behaviour on assignment 2.
+A050,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S08,Student H,2026-08-15,Emerging,Accomplished,Not Observed,Student H showed emerging planning behaviour on assignment 2.
+A050,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S09,Student I,2026-08-15,Accomplished,Accomplished,Not Observed,Student I showed accomplished planning behaviour on assignment 2.
+A050,Assignment 2,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S10,Student J,2026-08-15,Proficient,Emerging,Proficient,Student J showed proficient planning behaviour on assignment 2.
+A051,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S01,Student A,2026-08-29,Proficient,Accomplished,Not Observed,Student A showed proficient planning behaviour on assignment 3.
+A051,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S02,Student B,2026-08-29,Proficient,Accomplished,Not Observed,Student B showed proficient planning behaviour on assignment 3.
+A051,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S03,Student C,2026-08-29,Not Observed,Proficient,Emerging,Student C showed not observed planning behaviour on assignment 3.
+A051,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S04,Student D,2026-08-29,Emerging,Proficient,Proficient,Student D showed emerging planning behaviour on assignment 3.
+A051,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S05,Student E,2026-08-29,Proficient,Accomplished,Emerging,Student E showed proficient planning behaviour on assignment 3.
+A051,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S06,Student F,2026-08-29,Proficient,Proficient,Emerging,Student F showed proficient planning behaviour on assignment 3.
+A051,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S07,Student G,2026-08-29,Emerging,Proficient,Not Observed,Student G showed emerging planning behaviour on assignment 3.
+A051,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S08,Student H,2026-08-29,Not Observed,Proficient,Emerging,Student H showed not observed planning behaviour on assignment 3.
+A051,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S09,Student I,2026-08-29,Emerging,Proficient,Not Observed,Student I showed emerging planning behaviour on assignment 3.
+A051,Assignment 3,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S10,Student J,2026-08-29,Not Observed,Emerging,Accomplished,Student J showed not observed planning behaviour on assignment 3.
+A052,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S01,Student A,2026-09-12,Emerging,Accomplished,Proficient,Student A showed emerging planning behaviour on assignment 4.
+A052,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S02,Student B,2026-09-12,Not Observed,Accomplished,Emerging,Student B showed not observed planning behaviour on assignment 4.
+A052,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S03,Student C,2026-09-12,Accomplished,Emerging,Not Observed,Student C showed accomplished planning behaviour on assignment 4.
+A052,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S04,Student D,2026-09-12,Proficient,Accomplished,Emerging,Student D showed proficient planning behaviour on assignment 4.
+A052,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S05,Student E,2026-09-12,Emerging,Not Observed,Proficient,Student E showed emerging planning behaviour on assignment 4.
+A052,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S06,Student F,2026-09-12,Accomplished,Accomplished,Proficient,Student F showed accomplished planning behaviour on assignment 4.
+A052,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S07,Student G,2026-09-12,Accomplished,Proficient,Accomplished,Student G showed accomplished planning behaviour on assignment 4.
+A052,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S08,Student H,2026-09-12,Proficient,Not Observed,Not Observed,Student H showed proficient planning behaviour on assignment 4.
+A052,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S09,Student I,2026-09-12,Not Observed,Accomplished,Not Observed,Student I showed not observed planning behaviour on assignment 4.
+A052,Assignment 4,Secondary 3 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S10,Student J,2026-09-12,Proficient,Emerging,Accomplished,Student J showed proficient planning behaviour on assignment 4.
+A053,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S01,Student A,2026-08-01,Emerging,Emerging,Not Observed,Student A showed emerging planning behaviour on assignment 1.
+A053,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S02,Student B,2026-08-01,Not Observed,Accomplished,Proficient,Student B showed not observed planning behaviour on assignment 1.
+A053,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S03,Student C,2026-08-01,Emerging,Proficient,Proficient,Student C showed emerging planning behaviour on assignment 1.
+A053,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S04,Student D,2026-08-01,Not Observed,Accomplished,Emerging,Student D showed not observed planning behaviour on assignment 1.
+A053,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S05,Student E,2026-08-01,Emerging,Emerging,Not Observed,Student E showed emerging planning behaviour on assignment 1.
+A053,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S06,Student F,2026-08-01,Proficient,Proficient,Emerging,Student F showed proficient planning behaviour on assignment 1.
+A053,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S07,Student G,2026-08-01,Not Observed,Accomplished,Emerging,Student G showed not observed planning behaviour on assignment 1.
+A053,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S08,Student H,2026-08-01,Accomplished,Not Observed,Not Observed,Student H showed accomplished planning behaviour on assignment 1.
+A053,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S09,Student I,2026-08-01,Not Observed,Not Observed,Not Observed,Student I showed not observed planning behaviour on assignment 1.
+A053,Assignment 1,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S10,Student J,2026-08-01,Proficient,Not Observed,Accomplished,Student J showed proficient planning behaviour on assignment 1.
+A054,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S01,Student A,2026-08-15,Accomplished,Accomplished,Not Observed,Student A showed accomplished planning behaviour on assignment 2.
+A054,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S02,Student B,2026-08-15,Proficient,Emerging,Not Observed,Student B showed proficient planning behaviour on assignment 2.
+A054,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S03,Student C,2026-08-15,Not Observed,Emerging,Emerging,Student C showed not observed planning behaviour on assignment 2.
+A054,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S04,Student D,2026-08-15,Not Observed,Accomplished,Not Observed,Student D showed not observed planning behaviour on assignment 2.
+A054,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S05,Student E,2026-08-15,Proficient,Proficient,Emerging,Student E showed proficient planning behaviour on assignment 2.
+A054,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S06,Student F,2026-08-15,Accomplished,Emerging,Proficient,Student F showed accomplished planning behaviour on assignment 2.
+A054,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S07,Student G,2026-08-15,Not Observed,Not Observed,Proficient,Student G showed not observed planning behaviour on assignment 2.
+A054,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S08,Student H,2026-08-15,Emerging,Proficient,Proficient,Student H showed emerging planning behaviour on assignment 2.
+A054,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S09,Student I,2026-08-15,Emerging,Proficient,Emerging,Student I showed emerging planning behaviour on assignment 2.
+A054,Assignment 2,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S10,Student J,2026-08-15,Proficient,Not Observed,Accomplished,Student J showed proficient planning behaviour on assignment 2.
+A055,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S01,Student A,2026-08-29,Emerging,Accomplished,Proficient,Student A showed emerging planning behaviour on assignment 3.
+A055,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S02,Student B,2026-08-29,Emerging,Not Observed,Not Observed,Student B showed emerging planning behaviour on assignment 3.
+A055,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S03,Student C,2026-08-29,Emerging,Emerging,Not Observed,Student C showed emerging planning behaviour on assignment 3.
+A055,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S04,Student D,2026-08-29,Proficient,Emerging,Proficient,Student D showed proficient planning behaviour on assignment 3.
+A055,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S05,Student E,2026-08-29,Proficient,Accomplished,Accomplished,Student E showed proficient planning behaviour on assignment 3.
+A055,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S06,Student F,2026-08-29,Not Observed,Emerging,Proficient,Student F showed not observed planning behaviour on assignment 3.
+A055,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S07,Student G,2026-08-29,Emerging,Emerging,Not Observed,Student G showed emerging planning behaviour on assignment 3.
+A055,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S08,Student H,2026-08-29,Not Observed,Not Observed,Emerging,Student H showed not observed planning behaviour on assignment 3.
+A055,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S09,Student I,2026-08-29,Emerging,Proficient,Not Observed,Student I showed emerging planning behaviour on assignment 3.
+A055,Assignment 3,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S10,Student J,2026-08-29,Accomplished,Not Observed,Emerging,Student J showed accomplished planning behaviour on assignment 3.
+A056,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S01,Student A,2026-09-12,Proficient,Emerging,Accomplished,Student A showed proficient planning behaviour on assignment 4.
+A056,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S02,Student B,2026-09-12,Proficient,Proficient,Proficient,Student B showed proficient planning behaviour on assignment 4.
+A056,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S03,Student C,2026-09-12,Emerging,Not Observed,Accomplished,Student C showed emerging planning behaviour on assignment 4.
+A056,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S04,Student D,2026-09-12,Proficient,Accomplished,Not Observed,Student D showed proficient planning behaviour on assignment 4.
+A056,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S05,Student E,2026-09-12,Emerging,Not Observed,Proficient,Student E showed emerging planning behaviour on assignment 4.
+A056,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S06,Student F,2026-09-12,Accomplished,Proficient,Proficient,Student F showed accomplished planning behaviour on assignment 4.
+A056,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S07,Student G,2026-09-12,Proficient,Accomplished,Emerging,Student G showed proficient planning behaviour on assignment 4.
+A056,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S08,Student H,2026-09-12,Accomplished,Accomplished,Accomplished,Student H showed accomplished planning behaviour on assignment 4.
+A056,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S09,Student I,2026-09-12,Emerging,Emerging,Proficient,Student I showed emerging planning behaviour on assignment 4.
+A056,Assignment 4,Secondary 3 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S10,Student J,2026-09-12,Not Observed,Proficient,Not Observed,Student J showed not observed planning behaviour on assignment 4.
+A057,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S01,Student A,2026-08-01,Emerging,Proficient,Not Observed,Student A showed emerging planning behaviour on assignment 1.
+A057,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S02,Student B,2026-08-01,Accomplished,Emerging,Not Observed,Student B showed accomplished planning behaviour on assignment 1.
+A057,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S03,Student C,2026-08-01,Accomplished,Not Observed,Proficient,Student C showed accomplished planning behaviour on assignment 1.
+A057,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S04,Student D,2026-08-01,Not Observed,Accomplished,Proficient,Student D showed not observed planning behaviour on assignment 1.
+A057,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S05,Student E,2026-08-01,Not Observed,Emerging,Emerging,Student E showed not observed planning behaviour on assignment 1.
+A057,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S06,Student F,2026-08-01,Not Observed,Not Observed,Not Observed,Student F showed not observed planning behaviour on assignment 1.
+A057,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S07,Student G,2026-08-01,Emerging,Emerging,Emerging,Student G showed emerging planning behaviour on assignment 1.
+A057,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S08,Student H,2026-08-01,Emerging,Not Observed,Emerging,Student H showed emerging planning behaviour on assignment 1.
+A057,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S09,Student I,2026-08-01,Not Observed,Accomplished,Proficient,Student I showed not observed planning behaviour on assignment 1.
+A057,Assignment 1,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S10,Student J,2026-08-01,Not Observed,Not Observed,Proficient,Student J showed not observed planning behaviour on assignment 1.
+A058,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S01,Student A,2026-08-15,Emerging,Proficient,Not Observed,Student A showed emerging planning behaviour on assignment 2.
+A058,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S02,Student B,2026-08-15,Proficient,Emerging,Proficient,Student B showed proficient planning behaviour on assignment 2.
+A058,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S03,Student C,2026-08-15,Accomplished,Emerging,Proficient,Student C showed accomplished planning behaviour on assignment 2.
+A058,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S04,Student D,2026-08-15,Proficient,Proficient,Not Observed,Student D showed proficient planning behaviour on assignment 2.
+A058,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S05,Student E,2026-08-15,Emerging,Accomplished,Proficient,Student E showed emerging planning behaviour on assignment 2.
+A058,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S06,Student F,2026-08-15,Proficient,Emerging,Proficient,Student F showed proficient planning behaviour on assignment 2.
+A058,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S07,Student G,2026-08-15,Emerging,Not Observed,Proficient,Student G showed emerging planning behaviour on assignment 2.
+A058,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S08,Student H,2026-08-15,Emerging,Accomplished,Not Observed,Student H showed emerging planning behaviour on assignment 2.
+A058,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S09,Student I,2026-08-15,Proficient,Not Observed,Accomplished,Student I showed proficient planning behaviour on assignment 2.
+A058,Assignment 2,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S10,Student J,2026-08-15,Not Observed,Not Observed,Not Observed,Student J showed not observed planning behaviour on assignment 2.
+A059,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S01,Student A,2026-08-29,Not Observed,Proficient,Emerging,Student A showed not observed planning behaviour on assignment 3.
+A059,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S02,Student B,2026-08-29,Proficient,Accomplished,Accomplished,Student B showed proficient planning behaviour on assignment 3.
+A059,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S03,Student C,2026-08-29,Proficient,Not Observed,Not Observed,Student C showed proficient planning behaviour on assignment 3.
+A059,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S04,Student D,2026-08-29,Not Observed,Emerging,Proficient,Student D showed not observed planning behaviour on assignment 3.
+A059,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S05,Student E,2026-08-29,Emerging,Emerging,Not Observed,Student E showed emerging planning behaviour on assignment 3.
+A059,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S06,Student F,2026-08-29,Accomplished,Emerging,Emerging,Student F showed accomplished planning behaviour on assignment 3.
+A059,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S07,Student G,2026-08-29,Proficient,Proficient,Proficient,Student G showed proficient planning behaviour on assignment 3.
+A059,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S08,Student H,2026-08-29,Proficient,Proficient,Not Observed,Student H showed proficient planning behaviour on assignment 3.
+A059,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S09,Student I,2026-08-29,Not Observed,Proficient,Not Observed,Student I showed not observed planning behaviour on assignment 3.
+A059,Assignment 3,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S10,Student J,2026-08-29,Accomplished,Emerging,Emerging,Student J showed accomplished planning behaviour on assignment 3.
+A060,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S01,Student A,2026-09-12,Not Observed,Proficient,Emerging,Student A showed not observed planning behaviour on assignment 4.
+A060,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S02,Student B,2026-09-12,Emerging,Accomplished,Accomplished,Student B showed emerging planning behaviour on assignment 4.
+A060,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S03,Student C,2026-09-12,Emerging,Not Observed,Proficient,Student C showed emerging planning behaviour on assignment 4.
+A060,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S04,Student D,2026-09-12,Emerging,Accomplished,Accomplished,Student D showed emerging planning behaviour on assignment 4.
+A060,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S05,Student E,2026-09-12,Accomplished,Accomplished,Emerging,Student E showed accomplished planning behaviour on assignment 4.
+A060,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S06,Student F,2026-09-12,Emerging,Proficient,Emerging,Student F showed emerging planning behaviour on assignment 4.
+A060,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S07,Student G,2026-09-12,Emerging,Emerging,Proficient,Student G showed emerging planning behaviour on assignment 4.
+A060,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S08,Student H,2026-09-12,Not Observed,Proficient,Accomplished,Student H showed not observed planning behaviour on assignment 4.
+A060,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S09,Student I,2026-09-12,Proficient,Not Observed,Proficient,Student I showed proficient planning behaviour on assignment 4.
+A060,Assignment 4,Secondary 3 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S10,Student J,2026-09-12,Proficient,Emerging,Proficient,Student J showed proficient planning behaviour on assignment 4.
+A061,Assignment 1,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S01,Student A,2026-08-01,Emerging,Emerging,Not Observed,Student A showed emerging planning behaviour on assignment 1.
+A061,Assignment 1,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S02,Student B,2026-08-01,Emerging,Proficient,Not Observed,Student B showed emerging planning behaviour on assignment 1.
+A061,Assignment 1,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S03,Student C,2026-08-01,Proficient,Not Observed,Emerging,Student C showed proficient planning behaviour on assignment 1.
+A061,Assignment 1,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S04,Student D,2026-08-01,Accomplished,Emerging,Accomplished,Student D showed accomplished planning behaviour on assignment 1.
+A061,Assignment 1,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S05,Student E,2026-08-01,Proficient,Emerging,Not Observed,Student E showed proficient planning behaviour on assignment 1.
+A061,Assignment 1,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S06,Student F,2026-08-01,Accomplished,Not Observed,Emerging,Student F showed accomplished planning behaviour on assignment 1.
+A061,Assignment 1,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S07,Student G,2026-08-01,Accomplished,Not Observed,Emerging,Student G showed accomplished planning behaviour on assignment 1.
+A061,Assignment 1,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S08,Student H,2026-08-01,Emerging,Proficient,Accomplished,Student H showed emerging planning behaviour on assignment 1.
+A061,Assignment 1,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S09,Student I,2026-08-01,Accomplished,Not Observed,Proficient,Student I showed accomplished planning behaviour on assignment 1.
+A061,Assignment 1,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S10,Student J,2026-08-01,Not Observed,Accomplished,Accomplished,Student J showed not observed planning behaviour on assignment 1.
+A062,Assignment 2,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S01,Student A,2026-08-15,Emerging,Emerging,Accomplished,Student A showed emerging planning behaviour on assignment 2.
+A062,Assignment 2,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S02,Student B,2026-08-15,Accomplished,Accomplished,Accomplished,Student B showed accomplished planning behaviour on assignment 2.
+A062,Assignment 2,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S03,Student C,2026-08-15,Not Observed,Emerging,Not Observed,Student C showed not observed planning behaviour on assignment 2.
+A062,Assignment 2,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S04,Student D,2026-08-15,Accomplished,Not Observed,Accomplished,Student D showed accomplished planning behaviour on assignment 2.
+A062,Assignment 2,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S05,Student E,2026-08-15,Emerging,Emerging,Accomplished,Student E showed emerging planning behaviour on assignment 2.
+A062,Assignment 2,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S06,Student F,2026-08-15,Accomplished,Emerging,Not Observed,Student F showed accomplished planning behaviour on assignment 2.
+A062,Assignment 2,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S07,Student G,2026-08-15,Not Observed,Not Observed,Emerging,Student G showed not observed planning behaviour on assignment 2.
+A062,Assignment 2,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S08,Student H,2026-08-15,Not Observed,Not Observed,Proficient,Student H showed not observed planning behaviour on assignment 2.
+A062,Assignment 2,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S09,Student I,2026-08-15,Proficient,Emerging,Proficient,Student I showed proficient planning behaviour on assignment 2.
+A062,Assignment 2,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S10,Student J,2026-08-15,Not Observed,Accomplished,Accomplished,Student J showed not observed planning behaviour on assignment 2.
+A063,Assignment 3,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S01,Student A,2026-08-29,Accomplished,Emerging,Not Observed,Student A showed accomplished planning behaviour on assignment 3.
+A063,Assignment 3,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S02,Student B,2026-08-29,Proficient,Not Observed,Not Observed,Student B showed proficient planning behaviour on assignment 3.
+A063,Assignment 3,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S03,Student C,2026-08-29,Emerging,Not Observed,Not Observed,Student C showed emerging planning behaviour on assignment 3.
+A063,Assignment 3,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S04,Student D,2026-08-29,Not Observed,Proficient,Accomplished,Student D showed not observed planning behaviour on assignment 3.
+A063,Assignment 3,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S05,Student E,2026-08-29,Emerging,Proficient,Not Observed,Student E showed emerging planning behaviour on assignment 3.
+A063,Assignment 3,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S06,Student F,2026-08-29,Proficient,Proficient,Not Observed,Student F showed proficient planning behaviour on assignment 3.
+A063,Assignment 3,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S07,Student G,2026-08-29,Not Observed,Emerging,Emerging,Student G showed not observed planning behaviour on assignment 3.
+A063,Assignment 3,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S08,Student H,2026-08-29,Emerging,Accomplished,Proficient,Student H showed emerging planning behaviour on assignment 3.
+A063,Assignment 3,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S09,Student I,2026-08-29,Emerging,Not Observed,Accomplished,Student I showed emerging planning behaviour on assignment 3.
+A063,Assignment 3,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S10,Student J,2026-08-29,Emerging,Proficient,Not Observed,Student J showed emerging planning behaviour on assignment 3.
+A064,Assignment 4,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S01,Student A,2026-09-12,Not Observed,Not Observed,Accomplished,Student A showed not observed planning behaviour on assignment 4.
+A064,Assignment 4,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S02,Student B,2026-09-12,Proficient,Emerging,Proficient,Student B showed proficient planning behaviour on assignment 4.
+A064,Assignment 4,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S03,Student C,2026-09-12,Proficient,Proficient,Proficient,Student C showed proficient planning behaviour on assignment 4.
+A064,Assignment 4,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S04,Student D,2026-09-12,Not Observed,Emerging,Accomplished,Student D showed not observed planning behaviour on assignment 4.
+A064,Assignment 4,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S05,Student E,2026-09-12,Accomplished,Not Observed,Emerging,Student E showed accomplished planning behaviour on assignment 4.
+A064,Assignment 4,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S06,Student F,2026-09-12,Proficient,Not Observed,Proficient,Student F showed proficient planning behaviour on assignment 4.
+A064,Assignment 4,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S07,Student G,2026-09-12,Not Observed,Proficient,Proficient,Student G showed not observed planning behaviour on assignment 4.
+A064,Assignment 4,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S08,Student H,2026-09-12,Proficient,Not Observed,Emerging,Student H showed proficient planning behaviour on assignment 4.
+A064,Assignment 4,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S09,Student I,2026-09-12,Proficient,Not Observed,Not Observed,Student I showed proficient planning behaviour on assignment 4.
+A064,Assignment 4,Secondary 4 Chemistry,C3A,Class 3A,T3,Mrs. Lim,S10,Student J,2026-09-12,Proficient,Not Observed,Proficient,Student J showed proficient planning behaviour on assignment 4.
+A065,Assignment 1,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S01,Student A,2026-08-01,Proficient,Emerging,Emerging,Student A showed proficient planning behaviour on assignment 1.
+A065,Assignment 1,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S02,Student B,2026-08-01,Emerging,Not Observed,Emerging,Student B showed emerging planning behaviour on assignment 1.
+A065,Assignment 1,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S03,Student C,2026-08-01,Proficient,Proficient,Not Observed,Student C showed proficient planning behaviour on assignment 1.
+A065,Assignment 1,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S04,Student D,2026-08-01,Proficient,Proficient,Emerging,Student D showed proficient planning behaviour on assignment 1.
+A065,Assignment 1,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S05,Student E,2026-08-01,Not Observed,Not Observed,Not Observed,Student E showed not observed planning behaviour on assignment 1.
+A065,Assignment 1,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S06,Student F,2026-08-01,Accomplished,Accomplished,Not Observed,Student F showed accomplished planning behaviour on assignment 1.
+A065,Assignment 1,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S07,Student G,2026-08-01,Accomplished,Not Observed,Emerging,Student G showed accomplished planning behaviour on assignment 1.
+A065,Assignment 1,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S08,Student H,2026-08-01,Proficient,Proficient,Accomplished,Student H showed proficient planning behaviour on assignment 1.
+A065,Assignment 1,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S09,Student I,2026-08-01,Emerging,Emerging,Accomplished,Student I showed emerging planning behaviour on assignment 1.
+A065,Assignment 1,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S10,Student J,2026-08-01,Not Observed,Proficient,Accomplished,Student J showed not observed planning behaviour on assignment 1.
+A066,Assignment 2,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S01,Student A,2026-08-15,Emerging,Proficient,Proficient,Student A showed emerging planning behaviour on assignment 2.
+A066,Assignment 2,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S02,Student B,2026-08-15,Emerging,Proficient,Emerging,Student B showed emerging planning behaviour on assignment 2.
+A066,Assignment 2,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S03,Student C,2026-08-15,Not Observed,Emerging,Emerging,Student C showed not observed planning behaviour on assignment 2.
+A066,Assignment 2,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S04,Student D,2026-08-15,Proficient,Not Observed,Not Observed,Student D showed proficient planning behaviour on assignment 2.
+A066,Assignment 2,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S05,Student E,2026-08-15,Not Observed,Not Observed,Proficient,Student E showed not observed planning behaviour on assignment 2.
+A066,Assignment 2,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S06,Student F,2026-08-15,Emerging,Emerging,Proficient,Student F showed emerging planning behaviour on assignment 2.
+A066,Assignment 2,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S07,Student G,2026-08-15,Not Observed,Emerging,Not Observed,Student G showed not observed planning behaviour on assignment 2.
+A066,Assignment 2,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S08,Student H,2026-08-15,Accomplished,Proficient,Not Observed,Student H showed accomplished planning behaviour on assignment 2.
+A066,Assignment 2,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S09,Student I,2026-08-15,Proficient,Emerging,Proficient,Student I showed proficient planning behaviour on assignment 2.
+A066,Assignment 2,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S10,Student J,2026-08-15,Accomplished,Not Observed,Not Observed,Student J showed accomplished planning behaviour on assignment 2.
+A067,Assignment 3,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S01,Student A,2026-08-29,Not Observed,Not Observed,Proficient,Student A showed not observed planning behaviour on assignment 3.
+A067,Assignment 3,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S02,Student B,2026-08-29,Proficient,Not Observed,Proficient,Student B showed proficient planning behaviour on assignment 3.
+A067,Assignment 3,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S03,Student C,2026-08-29,Emerging,Not Observed,Not Observed,Student C showed emerging planning behaviour on assignment 3.
+A067,Assignment 3,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S04,Student D,2026-08-29,Accomplished,Not Observed,Emerging,Student D showed accomplished planning behaviour on assignment 3.
+A067,Assignment 3,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S05,Student E,2026-08-29,Emerging,Accomplished,Proficient,Student E showed emerging planning behaviour on assignment 3.
+A067,Assignment 3,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S06,Student F,2026-08-29,Emerging,Proficient,Proficient,Student F showed emerging planning behaviour on assignment 3.
+A067,Assignment 3,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S07,Student G,2026-08-29,Emerging,Emerging,Not Observed,Student G showed emerging planning behaviour on assignment 3.
+A067,Assignment 3,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S08,Student H,2026-08-29,Proficient,Not Observed,Emerging,Student H showed proficient planning behaviour on assignment 3.
+A067,Assignment 3,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S09,Student I,2026-08-29,Not Observed,Accomplished,Accomplished,Student I showed not observed planning behaviour on assignment 3.
+A067,Assignment 3,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S10,Student J,2026-08-29,Accomplished,Proficient,Emerging,Student J showed accomplished planning behaviour on assignment 3.
+A068,Assignment 4,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S01,Student A,2026-09-12,Proficient,Accomplished,Accomplished,Student A showed proficient planning behaviour on assignment 4.
+A068,Assignment 4,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S02,Student B,2026-09-12,Proficient,Accomplished,Emerging,Student B showed proficient planning behaviour on assignment 4.
+A068,Assignment 4,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S03,Student C,2026-09-12,Emerging,Not Observed,Emerging,Student C showed emerging planning behaviour on assignment 4.
+A068,Assignment 4,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S04,Student D,2026-09-12,Accomplished,Proficient,Accomplished,Student D showed accomplished planning behaviour on assignment 4.
+A068,Assignment 4,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S05,Student E,2026-09-12,Emerging,Proficient,Accomplished,Student E showed emerging planning behaviour on assignment 4.
+A068,Assignment 4,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S06,Student F,2026-09-12,Accomplished,Proficient,Accomplished,Student F showed accomplished planning behaviour on assignment 4.
+A068,Assignment 4,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S07,Student G,2026-09-12,Proficient,Not Observed,Emerging,Student G showed proficient planning behaviour on assignment 4.
+A068,Assignment 4,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S08,Student H,2026-09-12,Not Observed,Proficient,Accomplished,Student H showed not observed planning behaviour on assignment 4.
+A068,Assignment 4,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S09,Student I,2026-09-12,Accomplished,Not Observed,Accomplished,Student I showed accomplished planning behaviour on assignment 4.
+A068,Assignment 4,Secondary 4 Chemistry,C3B,Class 3B,T3,Mrs. Lim,S10,Student J,2026-09-12,Not Observed,Emerging,Proficient,Student J showed not observed planning behaviour on assignment 4.
+A069,Assignment 1,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S01,Student A,2026-08-01,Emerging,Proficient,Not Observed,Student A showed emerging planning behaviour on assignment 1.
+A069,Assignment 1,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S02,Student B,2026-08-01,Proficient,Proficient,Emerging,Student B showed proficient planning behaviour on assignment 1.
+A069,Assignment 1,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S03,Student C,2026-08-01,Emerging,Proficient,Not Observed,Student C showed emerging planning behaviour on assignment 1.
+A069,Assignment 1,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S04,Student D,2026-08-01,Accomplished,Not Observed,Accomplished,Student D showed accomplished planning behaviour on assignment 1.
+A069,Assignment 1,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S05,Student E,2026-08-01,Accomplished,Not Observed,Accomplished,Student E showed accomplished planning behaviour on assignment 1.
+A069,Assignment 1,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S06,Student F,2026-08-01,Emerging,Not Observed,Emerging,Student F showed emerging planning behaviour on assignment 1.
+A069,Assignment 1,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S07,Student G,2026-08-01,Not Observed,Accomplished,Emerging,Student G showed not observed planning behaviour on assignment 1.
+A069,Assignment 1,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S08,Student H,2026-08-01,Proficient,Not Observed,Emerging,Student H showed proficient planning behaviour on assignment 1.
+A069,Assignment 1,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S09,Student I,2026-08-01,Not Observed,Not Observed,Emerging,Student I showed not observed planning behaviour on assignment 1.
+A069,Assignment 1,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S10,Student J,2026-08-01,Emerging,Not Observed,Accomplished,Student J showed emerging planning behaviour on assignment 1.
+A070,Assignment 2,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S01,Student A,2026-08-15,Emerging,Proficient,Accomplished,Student A showed emerging planning behaviour on assignment 2.
+A070,Assignment 2,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S02,Student B,2026-08-15,Emerging,Emerging,Emerging,Student B showed emerging planning behaviour on assignment 2.
+A070,Assignment 2,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S03,Student C,2026-08-15,Not Observed,Not Observed,Not Observed,Student C showed not observed planning behaviour on assignment 2.
+A070,Assignment 2,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S04,Student D,2026-08-15,Accomplished,Emerging,Emerging,Student D showed accomplished planning behaviour on assignment 2.
+A070,Assignment 2,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S05,Student E,2026-08-15,Not Observed,Not Observed,Emerging,Student E showed not observed planning behaviour on assignment 2.
+A070,Assignment 2,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S06,Student F,2026-08-15,Proficient,Emerging,Proficient,Student F showed proficient planning behaviour on assignment 2.
+A070,Assignment 2,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S07,Student G,2026-08-15,Proficient,Not Observed,Proficient,Student G showed proficient planning behaviour on assignment 2.
+A070,Assignment 2,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S08,Student H,2026-08-15,Accomplished,Proficient,Emerging,Student H showed accomplished planning behaviour on assignment 2.
+A070,Assignment 2,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S09,Student I,2026-08-15,Not Observed,Proficient,Not Observed,Student I showed not observed planning behaviour on assignment 2.
+A070,Assignment 2,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S10,Student J,2026-08-15,Proficient,Emerging,Accomplished,Student J showed proficient planning behaviour on assignment 2.
+A071,Assignment 3,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S01,Student A,2026-08-29,Emerging,Proficient,Not Observed,Student A showed emerging planning behaviour on assignment 3.
+A071,Assignment 3,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S02,Student B,2026-08-29,Not Observed,Accomplished,Accomplished,Student B showed not observed planning behaviour on assignment 3.
+A071,Assignment 3,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S03,Student C,2026-08-29,Proficient,Proficient,Emerging,Student C showed proficient planning behaviour on assignment 3.
+A071,Assignment 3,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S04,Student D,2026-08-29,Accomplished,Not Observed,Proficient,Student D showed accomplished planning behaviour on assignment 3.
+A071,Assignment 3,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S05,Student E,2026-08-29,Not Observed,Emerging,Emerging,Student E showed not observed planning behaviour on assignment 3.
+A071,Assignment 3,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S06,Student F,2026-08-29,Proficient,Proficient,Proficient,Student F showed proficient planning behaviour on assignment 3.
+A071,Assignment 3,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S07,Student G,2026-08-29,Emerging,Emerging,Not Observed,Student G showed emerging planning behaviour on assignment 3.
+A071,Assignment 3,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S08,Student H,2026-08-29,Proficient,Not Observed,Emerging,Student H showed proficient planning behaviour on assignment 3.
+A071,Assignment 3,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S09,Student I,2026-08-29,Not Observed,Accomplished,Not Observed,Student I showed not observed planning behaviour on assignment 3.
+A071,Assignment 3,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S10,Student J,2026-08-29,Accomplished,Proficient,Accomplished,Student J showed accomplished planning behaviour on assignment 3.
+A072,Assignment 4,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S01,Student A,2026-09-12,Accomplished,Not Observed,Not Observed,Student A showed accomplished planning behaviour on assignment 4.
+A072,Assignment 4,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S02,Student B,2026-09-12,Not Observed,Not Observed,Proficient,Student B showed not observed planning behaviour on assignment 4.
+A072,Assignment 4,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S03,Student C,2026-09-12,Accomplished,Emerging,Emerging,Student C showed accomplished planning behaviour on assignment 4.
+A072,Assignment 4,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S04,Student D,2026-09-12,Emerging,Emerging,Proficient,Student D showed emerging planning behaviour on assignment 4.
+A072,Assignment 4,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S05,Student E,2026-09-12,Accomplished,Emerging,Proficient,Student E showed accomplished planning behaviour on assignment 4.
+A072,Assignment 4,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S06,Student F,2026-09-12,Accomplished,Proficient,Accomplished,Student F showed accomplished planning behaviour on assignment 4.
+A072,Assignment 4,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S07,Student G,2026-09-12,Accomplished,Not Observed,Emerging,Student G showed accomplished planning behaviour on assignment 4.
+A072,Assignment 4,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S08,Student H,2026-09-12,Proficient,Not Observed,Not Observed,Student H showed proficient planning behaviour on assignment 4.
+A072,Assignment 4,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S09,Student I,2026-09-12,Not Observed,Proficient,Emerging,Student I showed not observed planning behaviour on assignment 4.
+A072,Assignment 4,Secondary 4 Chemistry,C4A,Class 4A,T3,Mrs. Lim,S10,Student J,2026-09-12,Accomplished,Proficient,Accomplished,Student J showed accomplished planning behaviour on assignment 4.
