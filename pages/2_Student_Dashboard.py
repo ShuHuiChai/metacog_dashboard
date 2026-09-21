@@ -113,7 +113,7 @@ with main_col:
     with st.container(border=True):
         with st.container(key="current_level_container", border=True):
             st.markdown(
-                "<div style='text-align:center; font-weight:600;, font-size:20px'>Current Levels</div>",
+                "<div style='text-align:center; font-weight:600; font-size:20px'>Current Levels</div>",
                 unsafe_allow_html=True,
             )
             
@@ -126,13 +126,13 @@ with main_col:
                 )
                 with badge_cols[i]:
                     st.markdown(
-                        f"<div style='text-align:center;'><b>{phase}</b></div>",
-                        unsafe_allow_html=True,
-                    )
-                    st.markdown(
                         f"<div style='background-color:{LEVEL_COLORS[current_level]}; color:white; "
                         f"text-align:center; padding:10px; border-radius:6px; font-weight:600;'>"
                         f"{current_level}</div>",
+                        unsafe_allow_html=True,
+                    )
+                    st.markdown(
+                        f"<div style='text-align:center; margin-top: 10px; margin-bottom: 10px;'><b>{phase}</b></div>",
                         unsafe_allow_html=True,
                     )
                     # if st.button("💡 Suggested next step", key=f"badge_btn_{phase}", use_container_width=True):
