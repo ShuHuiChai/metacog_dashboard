@@ -298,16 +298,133 @@ def get_suggested_action(
 def _fallback_suggestion(phase: str, level: str, audience: str) -> str:
     """Used if no API key is configured or the API call fails."""
     if audience == "teacher":
-        return (
-            f"For students at '{level}' for {phase}:\n\n"
-            f"Model think-alouds and provide scaffolds to these students to help "
-            f"them make their thinking visible. Forcus on {phase.lower()} strategies "
-            f"such as using LEA to compare possible approaches, and check whether it is suitable for the task."
-        )
-    return (
-        f"You're currently at '{level}' for {phase}.\n\n"
-        f"Try naming your strategy out loud before you start your next task."
-    )
+        if phase == "Planning":
+            if level == "Emerging":
+                return (
+                    f"These students are currently at '{level}' for {phase}.\n\n"
+                    f"Support them by helping them make their strategy choices more deliberate (e.g., use LEA to compare possible approaches)."
+                )
+            elif level == "Proficient":
+                return (
+                    f"These students are currently at '{level}' for {phase}.\n\n"
+                    f"Support them by asking them to explain why they chose a particular strategy before they start their next task."
+                )
+            elif level == "Accomplished":
+                return (
+                    f"These students are currently at '{level}' for {phase}.\n\n"
+                    f"Support them by checking whether their chosen strategy is suitable for the task before they start their next task."
+                )
+            elif level == "Not Observed":
+                return (
+                    f"These students are currently at '{level}' for {phase}.\n\n"
+                    f"Support them by prompting them to think about how they learn and plan their strategy before they start their next task."
+                )
+        elif phase == "Monitoring":
+            if level == "Emerging":
+                return (
+                    f"These students are currently at '{level}' for {phase}.\n\n"
+                    f"Support them by prompting them to check their understanding out loud when they are unclear during their next task."
+                )
+            elif level == "Proficient":
+                return (
+                    f"These students are currently at '{level}' for {phase}.\n\n"
+                    f"Support them by prompting them to notice and evaluate their thinking strategies out loud to monitor their learning during their next task."
+                )
+            elif level == "Accomplished":
+                return (
+                    f"These students are currently at '{level}' for {phase}.\n\n"
+                    f"Support them by prompting them to deliberately use strategies to guide their learning during their next task."
+                )
+            elif level == "Not Observed":
+                return (
+                    f"These students are currently at '{level}' for {phase}.\n\n"
+                    f"Support them by prompting them to check their understanding and notice their thinking strategies during their next task."
+                )
+        elif phase == "Reflection":
+            if level == "Emerging":
+                return (
+                    f"These students are currently at '{level}' for {phase}.\n\n"
+                    f"Support them by prompting them to reflect on their learning out loud when they are unclear during their next task."
+                )
+            elif level == "Proficient":
+                return (
+                    f"These students are currently at '{level}' for {phase}.\n\n"
+                    f"Support them by prompting them to evaluate their thinking strategies out loud to monitor their learning during their next task."
+                )
+            elif level == "Accomplished":
+                return (
+                    f"These students are currently at '{level}' for {phase}.\n\n"
+                    f"Support them by prompting them to deliberately use strategies to guide their learning during their next task."
+                )
+            elif level == "Not Observed":
+                return (
+                    f"These students are currently at '{level}' for {phase}.\n\n"
+                    f"Support them by prompting them to reflect on their learning and evaluate their thinking strategies during their next task."
+                )
+    else:
+        if phase == "Planning":
+            if level == "Emerging":
+                return (
+                    f"You're currently at '{level}' for {phase}.\n\n"
+                    f"Try using LEA to compare different strategies before you start your next task."
+                )
+            elif level == "Proficient":
+                return (
+                    f"You're currently at '{level}' for {phase}.\n\n"
+                    f"Try explaining out loud why you chose a particular strategy before you start your next task."
+                )
+            elif level == "Accomplished":
+                return (
+                    f"You're currently at '{level}' for {phase}.\n\n"
+                    f"Try checking whether your chosen strategy is suitable for the task before you start your next task."
+                )
+            elif level == "Not Observed":
+                return (
+                    f"You're currently at '{level}' for {phase}.\n\n"
+                    f"Try thinking about how you learn and planning your strategy before you start your next task."
+                )
+        elif phase == "Monitoring":
+            if level == "Emerging":
+                return (
+                    f"You're currently at '{level}' for {phase}.\n\n"
+                    f"Try checking your understanding out loud when you are unclear during your next task."
+                )
+            elif level == "Proficient":
+                return (
+                    f"You're currently at '{level}' for {phase}.\n\n"
+                    f"Try noticing and evaluating your thinking strategies out loud to monitor your learning during your next task."
+                )
+            elif level == "Accomplished":
+                return (
+                    f"You're currently at '{level}' for {phase}.\n\n"
+                    f"Try deliberately using strategies to guide your learning during your next task."
+                )
+            elif level == "Not Observed":
+                return (
+                    f"You're currently at '{level}' for {phase}.\n\n"
+                    f"Try checking your understanding and noticing your thinking strategies during your next task."
+                )
+        elif phase == "Reflection":
+            if level == "Emerging":
+                return (
+                    f"You're currently at '{level}' for {phase}.\n\n"
+                    f"Try reflecting on your learning out loud when you are unclear during your next task."
+                )
+            elif level == "Proficient":
+                return (
+                    f"You're currently at '{level}' for {phase}.\n\n"
+                    f"Try evaluating your thinking strategies out loud to monitor your learning during your next task."
+                )
+            elif level == "Accomplished":
+                return (
+                    f"You're currently at '{level}' for {phase}.\n\n"
+                    f"Try deliberately using strategies to guide your learning during your next task."
+                )
+            elif level == "Not Observed":
+                return (
+                    f"You're currently at '{level}' for {phase}.\n\n"
+                    f"Try reflecting on your learning and evaluating your thinking strategies during your next task."
+                )
 
 
 # ---------------------------------------------------------------------------

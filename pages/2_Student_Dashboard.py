@@ -131,12 +131,13 @@ with main_col:
                         f"{current_level}</div>",
                         unsafe_allow_html=True,
                     )
+                    if st.button("💡 Suggested next step", key=f"badge_btn_{phase}", use_container_width=True):
+                        show_suggestion_dialog(phase, None, current_level, subject)
                     st.markdown(
                         f"<div style='text-align:center; margin-top: 10px; margin-bottom: 10px;'><b>{phase}</b></div>",
                         unsafe_allow_html=True,
                     )
-                    # if st.button("💡 Suggested next step", key=f"badge_btn_{phase}", use_container_width=True):
-                    #     show_suggestion_dialog(phase, None, current_level, selected_student_id, subject)
+                    
 
         st.write("")
         st.subheader("Progress by assignment")
